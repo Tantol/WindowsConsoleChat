@@ -1,0 +1,2474 @@
+teeeeekst
+teeeeekst
+teeeeekst
+teeeeekst
+teeeeekst
+teeeeekst
+] (User id:[1])
+
+] (User id:[2])
+
+Information from client with (id:[0]) Type: [login] (User id:[1])
+
+Information from client with (id:[0]) Type: [login] (User id:[2])
+
+Information from client with (id:[0]) Type: [login] (User id:[1])
+Information from client with (id:[0]) Type: [login] (User id:[2])
+Information from client with (id:[0]) Type: [login] (User id:[1])
+Information from client with (id:[0]) Type: [login] (User id:[2])
+Client (id:[0]) Type: [login] (User id:[1])
+Client (id:[0]) Type: [login] (User id:[2])
+Client (id:[0]) Type: [login] (User name:[19987604])
+Client (id:[0]) Type: [login] (User name:[19987604])
+Type out of range [0]
+Type out of range [0]
+Client (id:[0]) Type: [login] (User name:[15793052])
+Client (id:[0]) Type: [login] (User name:[15793052])
+Client (id:[0]) Type: [login] (User name:[15793468])
+Client (id:[0]) Type: [login] (User name:[15793468])
+Client (id:[0]) Type: [login] (User name:[Jan Nowak])
+Client (id:[0]) Type: [login] (User name:[Jan Nowak])
+Client (id:[0]) Type: [rezervated for system] (Rezervated for system:[Jan Nowak])
+Client (id:[0]) Type: [login] (User name:[Jan Nowak])
+Client (id:[0]) Type: [rezervated for system] (Rezervated for system:[Jan Nowak])
+Client (id:[0]) Type: [login] (User name:[Jan Nowak])
+Client (id:[0]) Type: [rezervated for system] (Rezervated for system:[Jan Nowak])
+Client (id:[0]) Type: [login] (User name:[Jan Nowak])
+Client (id:[0]) Type: [login] (User name:[Jan Nowak])
+Client (id:[0]) Type: [Authorization] (User name:[Jan Nowak])
+Client (id:[0]) Type: [login] (User name:[Jan Nowak])
+Client (id:[0]) Type: [login] (User name:[Jan Nowak])
+Type: [(null)] (User name:[Jan Nowak])
+Type: [(null)] (User name:[Jan Nowak])
+Type: [(null)] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak])
+Type: [login] (User name:[Jan Nowak])
+Type: [login] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak])
+Type: [login] (User name:[Jan Nowak])
+Type: [login] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[Jan Nowak])
+Type: [login] (User name:[Jan Nowak])
+Type: [Disconnected] (User name:[Jan Nowak])Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Authorization] (User name:[Marek Marecki]) -> succeed
+Type: [login] (User name:[Marek Marecki])
+Type: [login] (User name:[Jan Nowak])
+Type: [Disconnected] (User name:[Jan Nowak])Type: [Disconnected] (User name:[Marek Marecki])Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Authorization] (User name:[Marek Marecki]) -> succeed
+Type: [login] (User name:[Marek Marecki]) -> faild
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Disconnected] (User name:[Marek Marecki])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Authorization] (User name:[Marek Marecki]) -> succeed
+Type: [login] (User name:[Marek Marecki]) -> faild
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [Disconnected] (User name:[Marek Marecki])
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [logout] (User name:[Jan Nowak]) -> faild
+Type: [join group] (Group name:[nazwa]) -> faild
+Type: [join group] (Group name:[nazwa]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [logout] (User name:[Jan Nowak]) -> faild
+Type: [send message->to group] (Group name:[nawa]) Message: [messagewysylam] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [send message->to group] (Group name:[nazwa]) Message: [wiadomosc] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [send message->to group] (Group name:[]) Message: [] -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [send message->to group] (Group name:[wdw]) Message: [wd] -> faild
+Type: [send message->to selected user] (User name:[userNickName]) Message: [jarek] -> succeed
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [login] (User name:[Jan Nowak]) -> faild
+Type: [send message->to all] Message: [dwadawd ddd d d d d dsss s  s ] -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Login] (User name:[Jan Nowak]) -> faild
+Type: [Send message->To all] Message: [dwadawd ddd d d d d dsss s  s ] -> faild
+Type: [Login] (User name:[Jan Nowak]) -> faild
+Type: [Logout] (User name:[Jan Nowak]) -> faild
+Type: [Join group] (Group name:[wdw]) -> faild
+Type: [Logout] (User name:[Jan Nowak]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Login] (User name:[Jan Nowak]) -> faild
+Type: [Join group] (Group name:[]) -> faild
+Type: [Abandon group] (Group name:[]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Login] (User name:[Jan Nowak]) -> faild
+Type: [Join group] (Group name:[]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Login] (User name:[Jan Nowak]) -> faild
+Type: [Join group] (Group name:[]) -> faild
+Type: [Login] (User name:[Jan Nowak]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Login] (User name:[Jan Nowak]) -> faild
+Type: [Join group] (Group name:[nazwagrupy a]) -> faild
+Type: [Disconnected] (User name:[Jan Nowak])
+Type: [Authorization] (User name:[Jan Nowak]) -> faild
+Type: [Authorization] (User name:[Jan Nowak]) -> faild
+Type: [Authorization] (User name:[Jan Nowak]) -> succeed
+Type: [Authorization] (User name:[Jan Nowak]) -> faild
+Type: [Login] (User name:[Jan Nowak]) -> faild
+Type: [Logout] (User name:[Jan Nowak]) -> faild
+Type: [Join group] (Group name:[wdwws ss]) -> faild
+Type: [Join group] (Group name:[aasw w]) -> faild
+Type: [Send message->To all] Message: [awdsa zz z ] -> faild
+Type: [Send message->To group] (Group name:[namees]) Message: [meseg kjk jklwdja lkj] -> faild
+Type: [Send message->To selected user] (User name:[usernamesdaw ww]) Message: [lakwj ldkjaw lkjd] -> succeed
+Type: [Disconnected] (User name:[Jan Nowak])
+Jan Nowak -> Type: [Authorization] -> succeed
+Jan Nowak -> Type: [Authorization] -> faild
+Jan Nowak -> Type: [Login] -> faild
+Jan Nowak -> Type: [Logout] -> faild
+wwd -> Type: [Join group] (Group name:[wwd]) -> faild
+aaaa -> Type: [Join group] (Group name:[aaaa]) -> faild
+wdawd -> Type: [Abandon group] (Group name:[wdawd]) -> faild
+ -> Type: [Send message->To all] Message: [wadawda] -> faild
+wdaw -> Type: [Send message->To group] (Group name:[wdaw]) Message: [ssd] -> faild
+aszsc -> Type: [Send message->To selected user] (User name:[aszsc]) Message: [zcczc] -> succeed
+Type: [Disconnected] (User name:[Jan Nowak])
+Jan Nowak -> Type: [Authorization] -> succeed
+Jan Nowak -> Type: [Authorization] -> faild
+Jan Nowak -> Type: [Login] -> faild
+Jan Nowak -> Type: [Logout] -> faild
+Jan Nowak -> Type: [Join group] (Group name:[wwwd]) -> faild
+Jan Nowak -> Type: [Abandon group] (Group name:[awdasd]) -> faild
+Jan Nowak -> Type: [Send message->To all] Message: [adwawdzxc] -> faild
+Jan Nowak -> Type: [Send message->To group] (Group name:[awdawda]) Message: [awdasczs] -> faild
+Jan Nowak -> Type: [Send message->To selected user] (User name:[awdawda]) Message: [zczxczxc] -> succeed
+Type: [Disconnected] (User name:[Jan Nowak])
+// TODO dodac czas i bardziej kompaktowo
+Thu Aug 10 09:25:21 2017
+ Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 09:25:39 2017
+ Jan Nowak -> Type: [Login] -> faild
+Thu Aug 10 09:25:45 2017
+ Jan Nowak -> Type: [Logout] -> faild
+Thu Aug 10 09:25:49 2017
+ Jan Nowak -> Type: [Join group] (Group name:[ww]) -> faild
+Thu Aug 10 09:25:52 2017
+ Type: [Disconnected] (User name:[Jan Nowak])
+Thu Aug 10 09:35:19 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 09:35:45 2017 Jan Nowak -> Type: [Send message->To selected user] (User name:[wdwd]) Message: [aaaaa] -> succeed
+Thu Aug 10 09:35:47 2017 Type: [Disconnected] (User name:[Jan Nowak])
+Thu Aug 10 10:18:58 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 10:19:03 2017 Jan Nowak -> Type: [Login] -> failed
+Thu Aug 10 10:19:04 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 10:19:06 2017 Jan Nowak -> Type: [Join group] (Group name:[22]) -> failed
+Thu Aug 10 10:19:09 2017 Jan Nowak -> Type: [Join group] (Group name:[awd 2]) -> failed
+Thu Aug 10 10:19:14 2017 Jan Nowak -> Type: [Abandon group] (Group name:[aasd 2]) -> failed
+Thu Aug 10 10:19:17 2017 Jan Nowak -> Type: [Send message->To all] Message: [awdawd] -> failed
+Thu Aug 10 10:19:23 2017 Jan Nowak -> Type: [Send message->To group] (Group name:[wadawds s]) Message: [ww] -> failed
+Thu Aug 10 10:19:27 2017 Jan Nowak -> Type: [Send message->To selected user] (User name:[aa a]) Message: [ss w] -> succeed
+Thu Aug 10 10:19:29 2017 Type: [Disconnected] (User name:[Jan Nowak])
+Thu Aug 10 11:58:28 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 12:00:19 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 12:00:42 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 13:02:47 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 13:02:52 2017 0 -> Type: [Authorization] -> failed
+Thu Aug 10 13:02:56 2017  -> Type: [Authorization] -> failed
+Thu Aug 10 13:03:03 2017 4 -> Type: [Authorization] -> failed
+Thu Aug 10 13:03:08 2017 wadawdsad -> Type: [Authorization] -> failed
+Thu Aug 10 13:03:14 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 13:04:16 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 13:04:17 2017 Jan Nowak -> Type: [Login] -> failed
+Thu Aug 10 13:04:18 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 13:04:20 2017 Jan Nowak -> Type: [Join group] (Group name:[daw]) -> failed
+Thu Aug 10 13:04:22 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 13:05:06 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 13:05:32 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 13:05:45 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 13:05:51 2017 0 -> Type: [Authorization] -> failed
+Thu Aug 10 13:05:51 2017  -> Type: [Authorization] -> failed
+Thu Aug 10 13:05:56 2017 2 -> Type: [Authorization] -> failed
+Thu Aug 10 13:05:57 2017 Jan Nowak -> Type: [Authorization] -> failed
+Thu Aug 10 13:05:58 2017 0 -> Type: [Authorization] -> failed
+Thu Aug 10 13:06:13 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 14:58:37 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 14:58:42 2017 0 -> Type: [Authorization] -> failed
+Thu Aug 10 14:58:44 2017  -> Type: [Authorization] -> failed
+Thu Aug 10 14:58:50 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:01:50 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:01:56 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:04:21 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:04:23 2017 0 -> Type: [Authorization] -> failed
+Thu Aug 10 15:04:23 2017  -> Type: [Authorization] -> failed
+Thu Aug 10 15:04:23 2017 Jan Nowak -> Type: [Authorization] -> failed
+Thu Aug 10 15:04:27 2017 0 -> Type: [Authorization] -> failed
+Thu Aug 10 15:11:26 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:11:30 2017 Jan Nowak -> Type: [Login] -> failed
+Thu Aug 10 15:11:38 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 15:11:43 2017 Jan Nowak -> Type: [Join group] (Group name:[wadawd]) -> failed
+Thu Aug 10 15:11:49 2017 Jan Nowak -> Type: [Abandon group] (Group name:[dawda]) -> failed
+Thu Aug 10 15:11:49 2017 Jan Nowak -> Type: [Login] -> failed
+Thu Aug 10 15:11:49 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 15:11:51 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 15:11:51 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 15:11:52 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 15:11:58 2017 Jan Nowak -> Type: [Send message->To group] (Group name:[lawkd;alwkda]) Message: [awldawjdlakjwldkjawldkjalwdj] -> failed
+Thu Aug 10 15:12:00 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:18:37 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:18:47 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:25:59 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:26:28 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:31:32 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:31:42 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:31:55 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:31:58 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 15:32:01 2017 Jan Nowak -> Type: [Login] -> failed
+Thu Aug 10 15:32:13 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:32:41 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:32:44 2017 Jan Nowak -> Type: [Login] -> failed
+Thu Aug 10 15:32:51 2017 Jan Nowak -> Type: [Join group] (Group name:[wadawd]) -> failed
+Thu Aug 10 15:33:02 2017 Jan Nowak -> Type: [Send message->To all] Message: [adwaw] -> failed
+Thu Aug 10 15:33:08 2017 Jan Nowak -> Type: [Send message->To group] (Group name:[wdwd]) Message: [dwdwda] -> failed
+Thu Aug 10 15:33:10 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:36:12 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:36:18 2017 Jan Nowak -> Type: [Logout] -> failed
+Thu Aug 10 15:36:35 2017 Jan Nowak -> Type: [Send message->To group] (Group name:[awdawdadawdawdawda]) Message: [awdjkaw dakjwh kdjahw kj] -> failed
+Thu Aug 10 15:36:41 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:52:25 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:52:28 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:52:32 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:52:36 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:54:31 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:54:37 2017 Jan Nowak -> Type: [Login] -> failed
+Thu Aug 10 15:54:47 2017 Jan Nowak -> Type: [Send message->To group] (Group name:[adwa]) Message: [dawd] -> failed
+Thu Aug 10 15:54:50 2017 Jan Nowak -> Type: [Disconnected]
+Thu Aug 10 15:55:55 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Thu Aug 10 15:56:36 2017 Jan Nowak -> Type: [Send message->To selected user] (User name:[wadaw]) Message: [dawd awd a awdawd ] -> succeed
+Thu Aug 10 15:57:08 2017 Jan Nowak -> Type: [Disconnected]
+Fri Aug 11 10:13:44 2017 Jan Nowak -> Type: [Authorization] -> succeed
+Fri Aug 11 10:14:00 2017 Jan Nowak -> Type: [Login] -> failed
+Fri Aug 11 10:14:03 2017 Jan Nowak -> Type: [Disconnected]
+Fri Aug 11 10:36:37 2017 Mariusz -> Type: [Authorization] -> succeed
+Fri Aug 11 10:36:45 2017 Marek -> Type: [Authorization] -> succeed
+Fri Aug 11 10:36:56 2017 Marek -> Type: [Send message->To selected user] (User name:[Mariusz]) Message: [czesc] -> succeed
+Fri Aug 11 10:37:20 2017 Mariusz -> Type: [Send message->To selected user] (User name:[Marek]) Message: [czesc] -> succeed
+Fri Aug 11 10:37:25 2017 Mariusz -> Type: [Disconnected]
+Fri Aug 11 10:37:27 2017 Marek -> Type: [Disconnected]
+Fri Aug 11 10:39:42 2017 Mariusz -> Type: [Authorization] -> succeed
+Fri Aug 11 10:39:50 2017 Marek -> Type: [Authorization] -> succeed
+Fri Aug 11 10:40:07 2017 Mariusz -> Type: [Send message->To selected user] (User name:[Marek]) Message: [czesc marek] -> succeed
+Fri Aug 11 10:40:27 2017 Marek -> Type: [Send message->To selected user] (User name:[Mariusz]) Message: [czesc mariusz] -> succeed
+Fri Aug 11 10:40:31 2017 Marek -> Type: [Disconnected]
+Fri Aug 11 10:40:33 2017 Mariusz -> Type: [Disconnected]
+Fri Aug 11 10:42:43 2017 Marek -> Type: [Authorization] -> succeed
+Fri Aug 11 10:42:48 2017 Piotrek -> Type: [Authorization] -> succeed
+Fri Aug 11 10:42:56 2017 Piotrek -> Type: [Send messagePiotrek -> Type: [Send messageFri Aug 11 10:43:22 2017 Piotrek -> Type: [Disconnected]
+Fri Aug 11 10:44:18 2017 Marek -> Type: [Authorization] -> succeed
+Fri Aug 11 10:44:22 2017 Marek -> Type: [Login] -> failed
+Fri Aug 11 10:44:31 2017 Marek -> Type: [Send message->To selected user] (User name:[Piotr]) Message: [czesc] -> failed
+Fri Aug 11 10:44:55 2017 Marek -> Type: [Send message->To selected user] (User name:[Marek]) Message: [czesc ja] -> succeed
+Fri Aug 11 10:45:59 2017 Marek -> Type: [Login] -> failed
+Fri Aug 11 10:46:09 2017 Marek -> Type: [Send message->To selected user] (User name:[Marek]) Message: [lol l] -> succeed
+Fri Aug 11 10:46:56 2017 Mariusz -> Type: [Authorization] -> succeed
+Fri Aug 11 10:47:05 2017 Marek -> Type: [Send message->To selected user] (User name:[Mariusz]) Message: [czesc] -> succeed
+Fri Aug 11 10:47:17 2017 Mariusz -> Type: [Disconnected]
+Fri Aug 11 10:47:19 2017 Marek -> Type: [Disconnected]
+Fri Aug 11 10:47:40 2017 Marek -> Type: [Authorization] -> succeed
+Fri Aug 11 10:47:44 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:45 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:46 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:47 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:48 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:49 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:50 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:51 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:52 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:53 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:54 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:55 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:56 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:57 2017 Marek -> Type: [Abandon group] (Group name:[wad]) -> failed
+Fri Aug 11 10:47:57 2017 Marek -> Type: [Disconnected]
+Fri Aug 11 10:48:02 2017 Marek -> Type: [Authorization] -> succeed
+Fri Aug 11 10:48:03 2017 Marek -> Type: [Login] -> failed
+Fri Aug 11 10:48:06 2017 Marek -> Type: [Logout] -> failed
+Fri Aug 11 10:48:09 2017 Marek -> Type: [Join group] (Group name:[wdw]) -> failed
+Fri Aug 11 10:48:16 2017 Marek -> Type: [Abandon group] (Group name:[awdaw]) -> failed
+Fri Aug 11 10:48:45 2017 Marek -> Type: [Send message->To selected user] (User name:[Mariusz]) Message: [czesc] -> failed
+Fri Aug 11 10:49:02 2017 Mariusz -> Type: [Authorization] -> succeed
+Fri Aug 11 10:49:04 2017 Mariusz -> Type: [Login] -> failed
+Fri Aug 11 10:49:06 2017 Mariusz -> Type: [Logout] -> failed
+Fri Aug 11 10:49:09 2017 Mariusz -> Type: [Join group] (Group name:[wdaw]) -> failed
+Fri Aug 11 10:49:12 2017 Mariusz -> Type: [Join group] (Group name:[awd]) -> failed
+Fri Aug 11 10:49:17 2017 Mariusz -> Type: [Abandon group] (Group name:[awdaw]) -> failed
+Fri Aug 11 10:49:24 2017 Mariusz -> Type: [Send message->To selected user] (User name:[Marek]) Message: [czesc] -> succeed
+Fri Aug 11 10:49:31 2017 Mariusz -> Type: [Send message->To selected user] (User name:[Mariusz]) Message: [czesc] -> succeed
+Fri Aug 11 10:50:17 2017 Mariusz -> Type: [Disconnected]
+Fri Aug 11 10:50:19 2017 Marek -> Type: [Disconnected]
+Fri Aug 11 11:01:20 2017 Piotr -> Type: [Authorization] -> succeed
+Fri Aug 11 11:01:25 2017 Piotr -> Type: [Send message->To selected user] (User name:[Piotr]) Message: [czesc] -> succeed
+Fri Aug 11 11:01:33 2017 Piotr -> Type: [Disconnected]
+Fri Aug 11 11:01:40 2017 Piotr -> Type: [Authorization] -> succeed
+Fri Aug 11 11:01:47 2017 Piotr -> Type: [Send message->To selected user] (User name:[czesc]) Message: [awd] -> failed
+Fri Aug 11 11:01:54 2017 Piotr -> Type: [Send message->To selected user] (User name:[Piotr]) Message: [czsc] -> succeed
+Fri Aug 11 11:02:35 2017 Piotr -> Type: [Disconnected]
+Fri Aug 11 11:04:50 2017 Piotr -> Type: [Authorization] -> succeed
+Fri Aug 11 11:04:55 2017 Piotr -> Type: [Send message->To selected user] (User name:[Piotr]) Message: [czesc] -> succeed
+Fri Aug 11 11:05:32 2017 Piotr -> Type: [Disconnected]
+Fri Aug 11 13:24:40 2017 ol -> Type: [Authorization] -> succeed
+Fri Aug 11 13:24:52 2017 ol -> Type: [Login] -> failed
+Fri Aug 11 13:24:56 2017 ol -> Type: [Logout] -> failed
+Fri Aug 11 13:25:02 2017 ol -> Type: [Join group] (Group name:[wewwe]) -> failed
+Fri Aug 11 13:25:12 2017 ol -> Type: [Abandon group] (Group name:[ffrt]) -> failed
+Fri Aug 11 13:26:10 2017 wojtek -> Type: [Authorization] -> succeed
+Fri Aug 11 13:26:26 2017 ol -> Type: [Send message->To selected user] (User name:[wojtek]) Message: [czesc wojtek] -> succeed
+Fri Aug 11 13:26:45 2017 wojtek -> Type: [Disconnected]
+Fri Aug 11 13:26:47 2017 ol -> Type: [Disconnected]
+Fri Aug 11 13:37:30 2017 pol -> Type: [Authorization] -> succeed
+Fri Aug 11 13:37:33 2017 pol -> Type: [Disconnected]
+Fri Aug 11 13:53:34 2017 ole -> Type: [Authorization] -> succeed
+Fri Aug 11 13:53:40 2017 ole -> Type: [Login] -> failed
+Fri Aug 11 13:53:48 2017 ole -> Type: [Send message->To selected user] (User name:[ole]) Message: [czesc] -> succeed
+Fri Aug 11 13:54:03 2017 ole -> Type: [Disconnected]
+Fri Aug 11 13:54:54 2017 olee -> Type: [Authorization] -> succeed
+Fri Aug 11 13:54:56 2017 olee -> Type: [Login] -> succeed
+Fri Aug 11 13:54:59 2017 olee -> Type: [Logout] -> failed
+Fri Aug 11 13:55:02 2017 olee -> Type: [Disconnected]
+Fri Aug 11 13:55:54 2017 janek -> Type: [Authorization] -> succeed
+Fri Aug 11 13:55:56 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:55:58 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:55:59 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:00 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:01 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:01 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:02 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:02 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:02 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:02 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:02 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:03 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:03 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:03 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:03 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:03 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:04 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:04 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:04 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:04 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:04 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:05 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:07 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:07 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:19 2017 janek -> Type: [Send message->To selected user] (User name:[janek]) Message: [czesc to ja sam do siebie pisze] -> succeed
+Fri Aug 11 13:56:24 2017 janek -> Type: [Login] -> succeed
+Fri Aug 11 13:56:28 2017 janek -> Type: [Send message->To selected user] (User name:[wdw]) Message: [dw] -> failed
+Fri Aug 11 13:56:32 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 11 13:56:33 2017 janek -> Type: [Disconnected]
+Fri Aug 11 14:04:04 2017 marek -> Type: [Authorization] -> succeed
+Fri Aug 11 14:04:06 2017 marek -> Type: [Login] -> failed
+Fri Aug 11 14:04:14 2017 marek -> Type: [Send message->To selected user] (User name:[marek]) Message: [czesc] -> succeed
+Fri Aug 11 14:04:22 2017 piotr -> Type: [Authorization] -> succeed
+Fri Aug 11 14:04:29 2017 piotr -> Type: [Send message->To selected user] (User name:[marek]) Message: [czesc marku] -> succeed
+Fri Aug 11 14:04:38 2017 marek -> Type: [Send message->To selected user] (User name:[piotrek]) Message: [noczesc] -> failed
+Fri Aug 11 14:04:47 2017 marek -> Type: [Send message->To selected user] (User name:[piotr]) Message: [no czesss] -> succeed
+Fri Aug 11 14:04:52 2017 piotr -> Type: [Disconnected]
+Fri Aug 11 14:04:53 2017 marek -> Type: [Disconnected]
+Fri Aug 11 14:05:53 2017 marek -> Type: [Authorization] -> succeed
+Fri Aug 11 14:05:59 2017 marek -> Type: [Login] -> succeed
+Fri Aug 11 14:06:01 2017 marek -> Type: [Logout] -> succeed
+Fri Aug 11 14:06:02 2017 marek -> Type: [Login] -> succeed
+Fri Aug 11 14:06:03 2017 marek -> Type: [Logout] -> succeed
+Fri Aug 11 14:06:05 2017 marek -> Type: [Login] -> succeed
+Fri Aug 11 14:06:09 2017 marek -> Type: [Disconnected]
+Fri Aug 11 14:15:08 2017 olo -> Type: [Authorization] -> succeed
+Fri Aug 11 14:15:13 2017 olo -> Type: [Login] -> succeed
+Fri Aug 11 14:15:15 2017 olo -> Type: [Logout] -> succeed
+Fri Aug 11 14:15:18 2017 olo -> Type: [Login] -> succeed
+Fri Aug 11 14:15:19 2017 olo -> Type: [Logout] -> succeed
+Fri Aug 11 14:15:21 2017 olo -> Type: [Disconnected]
+Fri Aug 11 14:21:23 2017 558 -> Type: [Authorization] -> succeed
+Fri Aug 11 14:21:33 2017 558 -> Type: [Login] -> succeed
+Fri Aug 11 14:21:33 2017 558 -> Type: [Logout] -> succeed
+Fri Aug 11 14:21:36 2017 558 -> Type: [Login] -> succeed
+Fri Aug 11 14:21:38 2017 558 -> Type: [Disconnected]
+Thu Aug 17 09:59:42 2017 piotr -> Type: [Authorization] -> succeed
+Thu Aug 17 09:59:48 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 17 10:00:06 2017 piotr -> Type: [Disconnected]
+Thu Aug 17 10:00:48 2017 piotr -> Type: [Authorization] -> succeed
+Thu Aug 17 10:00:49 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 17 10:01:18 2017 piotr -> Type: [Disconnected]
+Thu Aug 17 10:01:52 2017 piotr -> Type: [Authorization] -> succeed
+Thu Aug 17 10:02:10 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 17 10:02:46 2017 piotr -> Type: [Disconnected]
+Thu Aug 17 10:06:00 2017 test -> Type: [Authorization] -> succeed
+Thu Aug 17 10:06:01 2017 test -> Type: [Login] -> succeed
+Thu Aug 17 10:06:13 2017 test -> Type: [Disconnected]
+Thu Aug 17 10:06:52 2017 teeeest -> Type: [Authorization] -> succeed
+Thu Aug 17 10:06:53 2017 teeeest -> Type: [Login] -> succeed
+Thu Aug 17 10:07:05 2017 teeeest -> Type: [Join group] (Group name:[12]) -> failed
+Thu Aug 17 10:07:22 2017 teeeest -> Type: [Join group] (Group name:[ad]) -> failed
+Thu Aug 17 10:07:25 2017 teeeest -> Type: [Logout] -> succeed
+Thu Aug 17 10:07:29 2017 teeeest -> Type: [Login] -> succeed
+Thu Aug 17 10:07:34 2017 teeeest -> Type: [Logout] -> succeed
+Thu Aug 17 10:07:47 2017 teeeest -> Type: [Disconnected]
+Thu Aug 17 10:08:59 2017 mm -> Type: [Authorization] -> succeed
+Thu Aug 17 10:09:05 2017 mm -> Type: [Login] -> succeed
+Thu Aug 17 10:09:51 2017 mm -> Type: [Disconnected]
+Thu Aug 17 10:10:30 2017 we -> Type: [Authorization] -> succeed
+Thu Aug 17 10:10:33 2017 we -> Type: [Login] -> succeed
+Thu Aug 17 10:10:37 2017 we -> Type: [Logout] -> succeed
+Thu Aug 17 10:10:41 2017 we -> Type: [Login] -> succeed
+Thu Aug 17 10:10:48 2017 we -> Type: [Join group] (Group name:[wd]) -> failed
+Thu Aug 17 10:10:54 2017 we -> Type: [Send message->To all] Message: [1] -> failed
+Thu Aug 17 10:11:00 2017 we -> Type: [Disconnected]
+Thu Aug 17 10:11:04 2017 awe -> Type: [Authorization] -> succeed
+Thu Aug 17 10:11:29 2017 awe -> Type: [Disconnected]
+Thu Aug 17 10:12:26 2017 test -> Type: [Authorization] -> succeed
+Thu Aug 17 10:12:30 2017 test -> Type: [Send message->To all] Message: [1] -> failed
+Thu Aug 17 10:12:39 2017 test -> Type: [Login] -> succeed
+Thu Aug 17 10:12:43 2017 test -> Type: [Disconnected]
+Thu Aug 17 10:13:35 2017 test -> Type: [Authorization] -> succeed
+Thu Aug 17 10:13:41 2017 test -> Type: [Send message->To all] Message: [1] -> failed
+Thu Aug 17 10:13:51 2017 test -> Type: [Login] -> succeed
+Thu Aug 17 10:14:05 2017 test -> Type: [Send message->To selected user] (User name:[w]) Message: [w] -> failed
+Thu Aug 17 10:14:30 2017 test -> Type: [Send message->To all] Message: [1] -> failed
+Thu Aug 17 10:14:48 2017 test -> Type: [Send message->To all] Message: [1] -> failed
+Thu Aug 17 10:14:50 2017 test -> Type: [Disconnected]
+Thu Aug 17 10:18:30 2017 test -> Type: [Authorization] -> succeed
+Thu Aug 17 10:18:32 2017 test -> Type: [Login] -> succeed
+Thu Aug 17 10:18:40 2017 test -> Type: [Send message->To all] Message: [mienic] -> failed
+Thu Aug 17 10:18:42 2017 test -> Type: [Disconnected]
+Thu Aug 17 10:19:33 2017 test -> Type: [Authorization] -> succeed
+Thu Aug 17 10:19:35 2017 test -> Type: [Login] -> succeed
+Thu Aug 17 10:19:36 2017 test -> Type: [Logout] -> succeed
+Thu Aug 17 10:19:47 2017 test -> Type: [Send message->To all] Message: [ucina] -> failed
+Thu Aug 17 10:19:58 2017 test -> Type: [Join group] (Group name:[azwa]) -> failed
+Thu Aug 17 10:20:02 2017 test -> Type: [Disconnected]
+Thu Aug 17 10:20:21 2017 lol -> Type: [Authorization] -> succeed
+Thu Aug 17 10:20:21 2017 lol -> Type: [Login] -> succeed
+Thu Aug 17 10:20:22 2017 lol -> Type: [Logout] -> succeed
+Thu Aug 17 10:20:23 2017 lol -> Type: [Login] -> succeed
+Thu Aug 17 10:20:26 2017 lol -> Type: [Send message->To all] Message: [awdawd] -> failed
+Thu Aug 17 10:20:36 2017 lol -> Type: [Join group] (Group name:[nazwa]) -> failed
+Thu Aug 17 10:21:00 2017 maciek -> Type: [Authorization] -> succeed
+Thu Aug 17 10:21:13 2017 lol -> Type: [Send message->To all] Message: [czesc] -> failed
+Thu Aug 17 10:21:39 2017 maciek -> Type: [Send message->To selected user] (User name:[lol]) Message: [czesc] -> succeed
+Thu Aug 17 10:21:51 2017 lol -> Type: [Send message->To all] Message: [czesc] -> failed
+Thu Aug 17 10:22:10 2017 maciek -> Type: [Login] -> succeed
+Thu Aug 17 10:22:15 2017 lol -> Type: [Send message->To all] Message: [czesc] -> failed
+Thu Aug 17 10:22:19 2017 lol -> Type: [Logout] -> succeed
+Thu Aug 17 10:22:25 2017 maciek -> Type: [Send message->To selected user] (User name:[lol]) Message: [elo] -> succeed
+Thu Aug 17 10:23:07 2017 lol -> Type: [Disconnected]
+Thu Aug 17 10:23:11 2017 dziw -> Type: [Authorization] -> succeed
+Thu Aug 17 10:23:16 2017 maciek -> Type: [Send message->To selected user] (User name:[dziw]) Message: [czesc] -> succeed
+Thu Aug 17 10:23:30 2017 dziw -> Type: [Send message->To selected user] (User name:[maciek]) Message: [failed] -> succeed
+Thu Aug 17 10:23:43 2017 dziw -> Type: [Send message->To selected user] (User name:[aw]) Message: [w] -> failed
+Thu Aug 17 10:24:55 2017 dziw -> Type: [Login] -> succeed
+Thu Aug 17 10:25:09 2017 dziw -> Type: [Send message->To selected user] (User name:[maciek]) Message: [czesc] -> succeed
+Thu Aug 17 10:25:45 2017 dziw -> Type: [Logout] -> succeed
+Thu Aug 17 10:25:51 2017 maciek -> Type: [Logout] -> succeed
+Thu Aug 17 10:25:55 2017 dziw -> Type: [Login] -> succeed
+Thu Aug 17 10:25:57 2017 maciek -> Type: [Login] -> succeed
+Thu Aug 17 10:25:59 2017 dziw -> Type: [Logout] -> succeed
+Thu Aug 17 10:26:00 2017 maciek -> Type: [Logout] -> succeed
+Thu Aug 17 10:26:03 2017 maciek -> Type: [Join group] (Group name:[adwad]) -> failed
+Thu Aug 17 10:26:05 2017 dziw -> Type: [Join group] (Group name:[adwaw]) -> failed
+Thu Aug 17 10:26:12 2017 maciek -> Type: [Send message->To selected user] (User name:[dziw]) Message: [czesc] -> succeed
+Thu Aug 17 10:26:21 2017 dziw -> Type: [Send message->To selected user] (User name:[maciek]) Message: [czesc] -> succeed
+Thu Aug 17 11:13:02 2017 dziw -> Type: [Disconnected]
+Thu Aug 17 11:13:04 2017 maciek -> Type: [Disconnected]
+Thu Aug 17 13:02:09 2017 test -> Type: [Authorization] -> succeed
+Thu Aug 17 13:02:10 2017 test -> Type: [Login] -> succeed
+Thu Aug 17 13:02:11 2017 test -> Type: [Logout] -> succeed
+Thu Aug 17 13:02:14 2017 test -> Type: [Join group] (Group name:[awda]) -> failed
+Thu Aug 17 13:02:19 2017 test -> Type: [Send message->To all] Message: [awdawdawd] -> failed
+Thu Aug 17 13:02:23 2017 test -> Type: [Join group] (Group name:[awdaw]) -> failed
+Thu Aug 17 13:02:45 2017 test -> Type: [Send message->To selected user] (User name:[awda]) Message: [awda] -> failed
+Thu Aug 17 13:02:54 2017 test -> Type: [Join group] (Group name:[awdawd]) -> failed
+Thu Aug 17 13:03:02 2017 test -> Type: [Send message->To selected user] (User name:[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa]) Message: [aa] -> failed
+Thu Aug 17 13:04:16 2017 test -> Type: [Disconnected]
+Thu Aug 17 13:04:25 2017 test -> Type: [Authorization] -> succeed
+Thu Aug 17 13:04:29 2017 test -> Type: [Join group] (Group name:[awdawdaw]) -> failed
+Thu Aug 17 13:04:48 2017 test -> Type: [Disconnected]
+Thu Aug 17 13:05:19 2017 ol -> Type: [Authorization] -> succeed
+Thu Aug 17 13:05:22 2017 ol -> Type: [Send message->To group] (Group name:[aqw]) Message: [awda] -> failed
+Thu Aug 17 13:05:27 2017 ol -> Type: [Login] -> succeed
+Thu Aug 17 13:05:37 2017 ol -> Type: [Disconnected]
+Thu Aug 17 13:13:59 2017 marek -> Type: [Authorization] -> succeed
+Thu Aug 17 13:14:00 2017 marek -> Type: [Login] -> succeed
+Thu Aug 17 13:14:02 2017 marek -> Type: [Logout] -> succeed
+Thu Aug 17 13:14:05 2017 marek -> Type: [Join group] (Group name:[adwa]) -> failed
+Thu Aug 17 13:14:11 2017 marek -> Type: [Send message->To all] Message: [awdaw] -> failed
+Thu Aug 17 13:14:18 2017 marek -> Type: [Send message->To group] (Group name:[awdawd]) Message: [awdawd] -> failed
+Thu Aug 17 13:14:23 2017 marek -> Type: [Send message->To selected user] (User name:[awdawd]) Message: [awdawd] -> failed
+Thu Aug 17 13:14:25 2017 marek -> Type: [Login] -> succeed
+Thu Aug 17 13:14:30 2017 marek -> Type: [Disconnected]
+Thu Aug 17 13:47:53 2017 ryszard -> Type: [Authorization] -> succeed
+Thu Aug 17 13:48:00 2017 ryszard -> Type: [Send message->To all] Message: [dziwna wiadomosc 2] -> succeed
+Thu Aug 17 13:48:10 2017 ryszard -> Type: [Login] -> succeed
+Thu Aug 17 13:48:17 2017 ryszard -> Type: [Disconnected]
+Thu Aug 17 13:50:02 2017 pokpok -> Type: [Authorization] -> succeed
+Thu Aug 17 13:50:09 2017 pokpok -> Type: [Send message->To all] Message: [walk dla kwd] -> succeed
+Thu Aug 17 13:51:18 2017 pokpok -> Type: [Disconnected]
+Thu Aug 17 13:51:28 2017 awd -> Type: [Authorization] -> succeed
+Thu Aug 17 13:51:31 2017 awd -> Type: [Send message->To all] Message: [awdaw] -> succeed
+Thu Aug 17 13:51:37 2017 awd -> Type: [Disconnected]
+Thu Aug 17 13:53:21 2017 biedrona -> Type: [Authorization] -> succeed
+Thu Aug 17 13:53:27 2017 biedrona -> Type: [Send message->To all] Message: [elo] -> succeed
+Thu Aug 17 13:53:54 2017 biedrona -> Type: [Send message->To all] Message: [biedrona] -> succeed
+Thu Aug 17 13:54:07 2017 biedrona -> Type: [Send message->To selected user] (User name:[biedrona]) Message: [sam do siebie] -> succeed
+Thu Aug 17 13:54:21 2017 biedrona -> Type: [Login] -> succeed
+Thu Aug 17 13:54:25 2017 biedrona -> Type: [Disconnected]
+Thu Aug 17 15:48:37 2017 jacek -> Type: [Authorization] -> succeed
+Thu Aug 17 15:48:44 2017 nowa -> Type: [Create group] -> succeed
+Thu Aug 17 15:49:02 2017 0 -> Type: [Create group] -> succeed
+Thu Aug 17 15:49:06 2017 0 -> Type: [Create group] -> succeed
+Thu Aug 17 15:49:23 2017 jacek -> Type: [Disconnected]
+Thu Aug 17 15:54:19 2017 maciek -> Type: [Authorization] -> succeed
+Thu Aug 17 15:56:03 2017 maciek -> Type: [Authorization] -> succeed
+Thu Aug 17 15:56:05 2017 maciek -> Type: [Join group] (Group name:[awdaw]) -> failed
+Thu Aug 17 15:56:11 2017 aw -> Type: [Create group] -> succeed
+Thu Aug 17 15:56:15 2017 maciek -> Type: [Abandon group] (Group name:[aw]) -> failed
+Thu Aug 17 15:56:17 2017 maciek -> Type: [Disconnected]
+Fri Aug 18 09:40:22 2017 janek -> Type: [Authorization] -> succeed
+Fri Aug 18 09:40:29 2017 kowale -> Type: [Create group] -> succeed
+Fri Aug 18 09:40:37 2017 janek -> Type: [Send message->To group] (Group name:[kowale]) Message: [janek: czesc] -> succeed
+Fri Aug 18 09:40:52 2017 karol -> Type: [Authorization] -> succeed
+Fri Aug 18 09:40:56 2017 karol -> Type: [Join group] (Group name:[kowale]) -> succeed
+Fri Aug 18 09:41:04 2017 karol -> Type: [Send message->To group] (Group name:[kowale]) Message: [karol: czesc] -> succeed
+Fri Aug 18 09:41:26 2017 karol -> Type: [Abandon group] (Group name:[kowale]) -> failed
+Fri Aug 18 09:41:35 2017 karol -> Type: [Disconnected]
+Fri Aug 18 09:42:21 2017 janek -> Type: [Disconnected]
+Fri Aug 18 09:54:46 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 18 09:55:04 2017 test -> Type: [Disconnected]
+Fri Aug 18 09:56:00 2017 jarek -> Type: [Authorization] -> succeed
+Fri Aug 18 09:56:11 2017 jarek -> Type: [Join group] (Group name:[kowale]) -> succeed
+Fri Aug 18 09:56:24 2017 jarek -> Type: [Send message->To group] (Group name:[none]) Message: [jarek: e] -> failed
+Fri Aug 18 09:56:30 2017 jarek -> Type: [Abandon group] (Group name:[none]) -> failed
+Fri Aug 18 09:56:38 2017 jarek -> Type: [Disconnected]
+Fri Aug 18 10:47:30 2017 jan -> Type: [Authorization] -> succeed
+Fri Aug 18 10:47:33 2017 jan -> Type: [Join group] (Group name:[aw]) -> failed
+Fri Aug 18 10:47:43 2017 kowal -> Type: [Create group] -> succeed
+Fri Aug 18 10:47:47 2017 jan -> Type: [Abandon group] (Group name:[none]) -> failed
+Fri Aug 18 10:48:19 2017 piotr -> Type: [Authorization] -> succeed
+Fri Aug 18 10:48:22 2017 piotr -> Type: [Join group] (Group name:[kowal]) -> succeed
+Fri Aug 18 10:48:24 2017 piotr -> Type: [Abandon group] (Group name:[none]) -> failed
+Fri Aug 18 10:48:32 2017 piotr -> Type: [Send message->To group] (Group name:[none]) Message: [piotr: czesc] -> failed
+Fri Aug 18 10:48:46 2017 piotr -> Type: [Disconnected]
+Fri Aug 18 10:48:53 2017 jan -> Type: [Abandon group] (Group name:[none]) -> failed
+Fri Aug 18 10:48:59 2017 jan -> Type: [Send message->To group] (Group name:[none]) Message: [jan: czesc] -> failed
+Fri Aug 18 10:49:07 2017 jan -> Type: [Disconnected]
+Fri Aug 18 10:50:28 2017 piotr -> Type: [Authorization] -> succeed
+Fri Aug 18 10:50:33 2017 piotr -> Type: [Join group] (Group name:[kowal]) -> failed
+Fri Aug 18 10:50:37 2017 kowal -> Type: [Create group] -> succeed
+Fri Aug 18 10:50:42 2017 piotr -> Type: [Send message->To group] (Group name:[]) Message: [piotr: czesc] -> failed
+Fri Aug 18 10:51:08 2017 piotr -> Type: [Disconnected]
+Fri Aug 18 10:56:05 2017 jan -> Type: [Authorization] -> succeed
+Fri Aug 18 10:56:15 2017 jan -> Type: [Join group] (Group name:[kowal]) -> failed
+Fri Aug 18 10:56:18 2017 kowal -> Type: [Create group] (Group name:[kowal]) -> succeed
+Fri Aug 18 10:56:23 2017 jan -> Type: [Send message->To group] (Group name:[kowal]) Message: [jan: elo] -> succeed
+Fri Aug 18 10:56:44 2017 jan -> Type: [Abandon group] (Group name:[kowal]) -> succeed
+Fri Aug 18 10:56:53 2017 jan -> Type: [Join group] (Group name:[kowal]) -> failed
+Fri Aug 18 11:03:45 2017 jan -> Type: [Disconnected]
+Fri Aug 18 11:03:56 2017 jan -> Type: [Authorization] -> succeed
+Fri Aug 18 11:03:59 2017 jan -> Type: [Join group] (Group name:[kowal]) -> failed
+Fri Aug 18 11:04:07 2017 jan -> Type: [Send message->To all] Message: [czesc] -> succeed
+Fri Aug 18 11:04:29 2017 nowa grupa -> Type: [Create group] (Group name:[nowa grupa]) -> succeed
+Fri Aug 18 11:04:36 2017 jan -> Type: [Send message->To group] (Group name:[nowa grupa]) Message: [jan: lidereer] -> succeed
+Fri Aug 18 11:04:42 2017 jan -> Type: [Abandon group] (Group name:[nowa grupa]) -> succeed
+Fri Aug 18 11:04:48 2017 jan -> Type: [Disconnected]
+Fri Aug 18 15:31:52 2017 janek -> Type: [Authorization] -> succeed
+Fri Aug 18 15:31:59 2017 janek -> Type: [Login] -> succeed
+Fri Aug 18 15:32:02 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 18 15:32:06 2017 janek -> Type: [Join group] (Group name:[jakas]) -> failed
+Fri Aug 18 15:32:08 2017 janek -> Type: [Login] -> succeed
+Fri Aug 18 15:32:09 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 18 15:32:19 2017 grupaJankow -> Type: [Create group] (Group name:[grupaJankow]) -> succeed
+Fri Aug 18 15:33:12 2017 janek -> Type: [Login] -> succeed
+Fri Aug 18 15:33:13 2017 janek -> Type: [Logout] -> succeed
+Fri Aug 18 15:35:06 2017 karol -> Type: [Authorization] -> succeed
+Fri Aug 18 15:35:12 2017 grupaKarola -> Type: [Create group] (Group name:[grupaKarola]) -> succeed
+Fri Aug 18 15:35:41 2017 piotr -> Type: [Authorization] -> succeed
+Fri Aug 18 15:35:51 2017 piotr -> Type: [Join group] (Group name:[grupaKarola]) -> succeed
+Fri Aug 18 15:36:02 2017 grupaKarola -> Type: [Change leader] (User name:[grupaKarola]) -> succeed
+Fri Aug 18 15:36:11 2017 piotr -> Type: [Login] -> succeed
+Fri Aug 18 15:36:28 2017 karol -> Type: [Abandon group] (Group name:[grupaKarola]) -> succeed
+Fri Aug 18 15:38:11 2017 piotr -> Type: [Authorization] -> succeed
+Fri Aug 18 15:38:15 2017 grupa -> Type: [Create group] (Group name:[grupa]) -> succeed
+Fri Aug 18 15:38:27 2017 adam -> Type: [Authorization] -> succeed
+Fri Aug 18 15:38:34 2017 adam -> Type: [Join group] (Group name:[grup]) -> failed
+Fri Aug 18 15:38:37 2017 adam -> Type: [Join group] (Group name:[grupa]) -> succeed
+Fri Aug 18 15:38:44 2017 grupa -> Type: [Change leader] (User name:[grupa]) -> succeed
+Fri Aug 18 15:38:48 2017 adam -> Type: [Login] -> succeed
+Fri Aug 18 15:38:55 2017 grupa -> Type: [Remove user from group] (User name:[grupa]) -> succeed
+Fri Aug 18 15:39:00 2017 piotr -> Type: [Login] -> succeed
+Fri Aug 18 15:39:03 2017 piotr -> Type: [Disconnected]
+Fri Aug 18 15:40:10 2017 jan -> Type: [Authorization] -> succeed
+Fri Aug 18 15:40:12 2017 janowo -> Type: [Create group] (Group name:[janowo]) -> succeed
+Fri Aug 18 15:40:22 2017 wacek -> Type: [Authorization] -> succeed
+Fri Aug 18 15:40:25 2017 wacek -> Type: [Join group] (Group name:[janowo]) -> succeed
+Fri Aug 18 15:40:29 2017 janowo -> Type: [Change leader] (User name:[janowo]) -> succeed
+Fri Aug 18 15:40:37 2017 jan -> Type: [Abandon group] (Group name:[janowo]) -> succeed
+Fri Aug 18 15:40:45 2017 janowo -> Type: [Change leader] (User name:[janowo]) -> succeed
+Fri Aug 18 15:41:03 2017 wacek -> Type: [Abandon group] (Group name:[janowo]) -> succeed
+Fri Aug 18 15:41:07 2017 wacek -> Type: [Disconnected]
+Fri Aug 18 15:41:18 2017 jan -> Type: [Disconnected]
+Fri Aug 18 15:42:37 2017 jacek -> Type: [Authorization] -> succeed
+Fri Aug 18 15:42:39 2017 elo -> Type: [Authorization] -> succeed
+Fri Aug 18 15:42:42 2017 elo -> Type: [Disconnected]
+Fri Aug 18 15:42:42 2017 jacek -> Type: [Disconnected]
+Fri Aug 18 15:42:50 2017 jan -> Type: [Authorization] -> succeed
+Fri Aug 18 15:42:53 2017 jan -> Type: [Join group] (Group name:[awda]) -> failed
+Fri Aug 18 15:42:55 2017 jan -> Type: [Disconnected]
+Fri Aug 18 15:42:58 2017 awda -> Type: [Authorization] -> succeed
+Fri Aug 18 15:43:02 2017 awda -> Type: [Create group] (Group name:[awda]) -> succeed
+Fri Aug 18 15:43:04 2017 awda -> Type: [Login] -> succeed
+Fri Aug 18 15:43:56 2017 elo -> Type: [Authorization] -> succeed
+Fri Aug 18 15:43:59 2017 awda -> Type: [Create group] (Group name:[awda]) -> succeed
+Fri Aug 18 15:44:41 2017 elooooo -> Type: [Authorization] -> succeed
+Fri Aug 18 15:44:45 2017 bladToKill -> Type: [Create group] (Group name:[bladToKill]) -> succeed
+Fri Aug 18 15:45:24 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 18 15:45:26 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Fri Aug 18 15:46:38 2017 testt -> Type: [Authorization] -> succeed
+Fri Aug 18 15:46:39 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Mon Aug 21 09:39:56 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 09:40:00 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 21 09:40:07 2017 kowal -> Type: [Create group] (Group name:[kowal]) -> succeed
+Mon Aug 21 09:40:12 2017 jan -> Type: [Join group] (Group name:[kowal]) -> succeed
+Mon Aug 21 09:40:15 2017 piotr -> Type: [Disconnected]
+Mon Aug 21 09:40:24 2017 jan -> Type: [Login] -> succeed
+Mon Aug 21 09:40:25 2017 jan -> Type: [Logout] -> succeed
+Mon Aug 21 09:44:44 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 09:44:47 2017 kowal -> Type: [Create group] (Group name:[kowal]) -> succeed
+Mon Aug 21 09:44:49 2017 jan -> Type: [Disconnected]
+Mon Aug 21 11:03:06 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 21 11:03:07 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 21 11:03:08 2017 piotr -> Type: [Logout] -> succeed
+Mon Aug 21 11:03:12 2017 piotr -> Type: [Join group] (Group name:[awda]) -> failed
+Mon Aug 21 11:03:19 2017 piotr -> Type: [Create group] (Group name:[janowo]) -> succeed
+Mon Aug 21 11:03:21 2017 piotr -> Type: [Abandon group] (Group name:[janowo]) -> succeed
+Mon Aug 21 11:03:26 2017 piotr -> Type: [Send message->To all] Message: [czesc] -> succeed
+Mon Aug 21 11:03:35 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 21 11:03:35 2017 piotr -> Type: [Logout] -> succeed
+Mon Aug 21 11:03:44 2017 piotr -> Type: [Send message->To all] Message: [awda] -> succeed
+Mon Aug 21 11:03:48 2017 piotr -> Type: [Disconnected]
+Mon Aug 21 11:45:03 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 21 11:45:04 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 21 11:45:04 2017 piotr -> Type: [Logout] -> succeed
+Mon Aug 21 11:45:06 2017 piotr -> Type: [Join group] (Group name:[wad]) -> failed
+Mon Aug 21 11:45:09 2017 piotr -> Type: [Create group] (Group name:[aw]) -> succeed
+Mon Aug 21 11:45:13 2017 piotr -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Mon Aug 21 11:45:16 2017 piotr -> Type: [Send message->To all] Message: [awdawd] -> succeed
+Mon Aug 21 11:45:20 2017 piotr -> Type: [Create group] (Group name:[aw]) -> succeed
+Mon Aug 21 11:45:24 2017 piotr -> Type: [Send message->To group] (Group name:[aw]) Message: [piotr: aaaa] -> succeed
+Mon Aug 21 11:45:28 2017 piotr -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Mon Aug 21 11:45:28 2017 piotr -> Type: [Disconnected]
+Mon Aug 21 12:13:33 2017 TEST -> Type: [Authorization] -> succeed
+Mon Aug 21 12:13:36 2017 TEST -> Type: [Login] -> succeed
+Mon Aug 21 12:13:37 2017 TEST -> Type: [Logout] -> succeed
+Mon Aug 21 12:13:44 2017 TEST -> Type: [Join group] (Group name:[testgroup]) -> failed
+Mon Aug 21 12:13:59 2017 TEST -> Type: [Create group] (Group name:[testgroup]) -> succeed
+Mon Aug 21 12:14:19 2017 test2 -> Type: [Authorization] -> succeed
+Mon Aug 21 12:14:23 2017 test2 -> Type: [Join group] (Group name:[testgroup]) -> succeed
+Mon Aug 21 12:14:43 2017 TEST -> Type: [Remove user from group] (User name:[testgroup]) -> succeed
+Mon Aug 21 12:15:16 2017 TEST -> Type: [Disconnected]
+Mon Aug 21 12:15:18 2017 test2 -> Type: [Disconnected]
+Mon Aug 21 12:16:24 2017 test2 -> Type: [Authorization] -> succeed
+Mon Aug 21 12:16:29 2017 test2 -> Type: [Create group] (Group name:[testgroup]) -> succeed
+Mon Aug 21 12:17:04 2017 test2 -> Type: [Remove user from group] (User name:[testgroup]) -> succeed
+Mon Aug 21 12:17:05 2017 test2 -> Type: [Disconnected]
+Mon Aug 21 12:17:22 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 21 12:17:26 2017 test -> Type: [Create group] (Group name:[testgroup]) -> succeed
+Mon Aug 21 12:17:31 2017 test2 -> Type: [Authorization] -> succeed
+Mon Aug 21 12:17:36 2017 test2 -> Type: [Join group] (Group name:[testgroup]) -> succeed
+Mon Aug 21 12:17:45 2017 test -> Type: [Change leader] (User name:[testgroup]) -> succeed
+Mon Aug 21 12:17:50 2017 test2 -> Type: [Remove user from group] (User name:[testgroup]) -> succeed
+Mon Aug 21 12:17:56 2017 test2 -> Type: [Send message->To all] Message: [czesc] -> succeed
+Mon Aug 21 12:18:15 2017 test2 -> Type: [Send message->To selected user] (User name:[test]) Message: [witaj] -> succeed
+Mon Aug 21 12:18:23 2017 test2 -> Type: [Send message->To group] (Group name:[testgroup]) Message: [test2: witajcie] -> succeed
+Mon Aug 21 12:21:13 2017 test -> Type: [Join group] (Group name:[testgroup]) -> succeed
+Mon Aug 21 12:21:22 2017 test -> Type: [Send message->To group] (Group name:[testgroup]) Message: [test: czesc wszystkim] -> succeed
+Mon Aug 21 12:21:29 2017 test -> Type: [Abandon group] (Group name:[testgroup]) -> succeed
+Mon Aug 21 12:21:34 2017 test -> Type: [Disconnected]
+Mon Aug 21 12:21:36 2017 test2 -> Type: [Abandon group] (Group name:[testgroup]) -> succeed
+Mon Aug 21 12:21:37 2017 test2 -> Type: [Disconnected]
+Mon Aug 21 13:29:23 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 21 13:29:28 2017 janek -> Type: [Authorization] -> succeed
+Mon Aug 21 13:29:44 2017 janek -> Type: [Login] -> succeed
+Mon Aug 21 13:29:50 2017 janek -> Type: [Join group] (Group name:[kowal]) -> failed
+Mon Aug 21 13:29:56 2017 janek -> Type: [Create group] (Group name:[kowal]) -> succeed
+Mon Aug 21 13:30:02 2017 piotr -> Type: [Create group] (Group name:[kowal]) -> succeed
+Mon Aug 21 13:32:41 2017 piotr -> Type: [Disconnected]
+Mon Aug 21 13:32:43 2017 janek -> Type: [Logout] -> succeed
+Mon Aug 21 13:32:44 2017 janek -> Type: [Login] -> succeed
+Mon Aug 21 13:32:46 2017 janek -> Type: [Disconnected]
+Mon Aug 21 13:33:04 2017 pietras -> Type: [Authorization] -> succeed
+Mon Aug 21 13:33:09 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 13:33:13 2017 pietras -> Type: [Create group] (Group name:[kowal]) -> succeed
+Mon Aug 21 13:33:16 2017 jan -> Type: [Create group] (Group name:[kowal]) -> failed
+Mon Aug 21 13:33:32 2017 pietras -> Type: [Change leader] (User name:[kowal]) -> succeed
+Mon Aug 21 13:33:44 2017 pietras -> Type: [Abandon group] (Group name:[kowal]) -> succeed
+Mon Aug 21 13:33:49 2017 pietras -> Type: [Create group] (Group name:[kowal]) -> succeed
+Mon Aug 21 13:34:08 2017 jan -> Type: [Disconnected]
+Mon Aug 21 13:34:09 2017 pietras -> Type: [Disconnected]
+Mon Aug 21 13:38:13 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 21 13:38:20 2017 test -> Type: [Create group] (Group name:[janowo]) -> succeed
+Mon Aug 21 13:38:31 2017 test2 -> Type: [Authorization] -> succeed
+Mon Aug 21 13:38:38 2017 test -> Type: [Change leader] (User name:[janowo]) -> failed
+Mon Aug 21 13:38:45 2017 test2 -> Type: [Join group] (Group name:[janowo]) -> succeed
+Mon Aug 21 13:38:50 2017 test -> Type: [Change leader] (User name:[janowo]) -> failed
+Mon Aug 21 13:38:54 2017 test -> Type: [Change leader] (User name:[janowo]) -> succeed
+Mon Aug 21 13:39:01 2017 test2 -> Type: [Remove user from group] (User name:[janowo]) -> succeed
+Mon Aug 21 13:51:40 2017 test -> Type: [Disconnected]
+Mon Aug 21 13:51:41 2017 test2 -> Type: [Disconnected]
+Mon Aug 21 13:52:04 2017 jedziemy -> Type: [Authorization] -> succeed
+Mon Aug 21 13:52:08 2017 jedziemy -> Type: [Create group] (Group name:[aw]) -> succeed
+Mon Aug 21 13:52:20 2017 jedziemy -> Type: [Change leader] (User name:[aw]) -> failed
+Mon Aug 21 13:52:26 2017 jedziemy -> Type: [Remove user from group] (User name:[aw]) -> failed
+Mon Aug 21 13:52:35 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 13:52:37 2017 jan -> Type: [Join group] (Group name:[aw]) -> succeed
+Mon Aug 21 13:52:43 2017 jedziemy -> Type: [Change leader] (User name:[jan]) -> succeed
+Mon Aug 21 13:52:48 2017 jan -> Type: [Remove user from group] (User name:[e]) -> failed
+Mon Aug 21 13:53:03 2017 jan -> Type: [Remove user from group] (User name:[jedziemy]) -> succeed
+Mon Aug 21 13:53:08 2017 jedziemy -> Type: [Create group] (Group name:[aw]) -> failed
+Mon Aug 21 13:53:27 2017 jan -> Type: [Change leader] (User name:[jedziemy]) -> failed
+Mon Aug 21 13:53:32 2017 jedziemy -> Type: [Join group] (Group name:[aw]) -> succeed
+Mon Aug 21 13:53:37 2017 jan -> Type: [Change leader] (User name:[jedziemy]) -> succeed
+Mon Aug 21 13:53:41 2017 jedziemy -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Mon Aug 21 13:53:48 2017 jedziemy -> Type: [Create group] (Group name:[aw]) -> failed
+Mon Aug 21 13:53:57 2017 jan -> Type: [Change leader] (User name:[aw]) -> failed
+Mon Aug 21 13:54:01 2017 jan -> Type: [Change leader] (User name:[jan]) -> failed
+Mon Aug 21 13:54:18 2017 jan -> Type: [Change leader] (User name:[jedziemy]) -> failed
+Mon Aug 21 13:54:22 2017 jedziemy -> Type: [Create group] (Group name:[aw]) -> failed
+Mon Aug 21 13:54:24 2017 jedziemy -> Type: [Join group] (Group name:[aw]) -> succeed
+Mon Aug 21 13:54:28 2017 jan -> Type: [Change leader] (User name:[jedziemy]) -> succeed
+Mon Aug 21 13:54:40 2017 jedziemy -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Mon Aug 21 13:54:50 2017 jedziemy -> Type: [Create group] (Group name:[nowagrupa]) -> succeed
+Mon Aug 21 13:54:55 2017 jedziemy -> Type: [Send message->To group] (Group name:[nowagrupa]) Message: [jedziemy: czesc] -> succeed
+Mon Aug 21 13:55:04 2017 jedziemy -> Type: [Change leader] (User name:[jan]) -> failed
+Mon Aug 21 13:55:12 2017 jedziemy -> Type: [Remove user from group] (User name:[jedziemy]) -> succeed
+Mon Aug 21 13:55:57 2017 jan -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Mon Aug 21 13:56:01 2017 jan -> Type: [Join group] (Group name:[nowagrupa]) -> failed
+Mon Aug 21 13:56:05 2017 jan -> Type: [Create group] (Group name:[nowagrupa]) -> succeed
+Mon Aug 21 13:56:09 2017 jedziemy -> Type: [Join group] (Group name:[nowagrupa]) -> succeed
+Mon Aug 21 13:56:11 2017 jan -> Type: [Abandon group] (Group name:[nowagrupa]) -> succeed
+Mon Aug 21 13:56:13 2017 jan -> Type: [Disconnected]
+Mon Aug 21 13:56:15 2017 jedziemy -> Type: [Login] -> succeed
+Mon Aug 21 13:56:16 2017 jedziemy -> Type: [Logout] -> succeed
+Mon Aug 21 13:56:19 2017 jedziemy -> Type: [Disconnected]
+Mon Aug 21 14:38:15 2017 jan -> Type: [Authorization] -> failed
+Mon Aug 21 14:38:20 2017 jan -> Type: [Authorization] -> failed
+Mon Aug 21 14:38:21 2017 aw -> Type: [Authorization] -> failed
+Mon Aug 21 14:38:23 2017  -> Type: [Disconnected]
+Mon Aug 21 14:39:45 2017 jan -> Type: [Authorization] -> failed
+Mon Aug 21 14:39:48 2017 e -> Type: [Authorization] -> failed
+Mon Aug 21 14:39:49 2017 e -> Type: [Authorization] -> failed
+Mon Aug 21 14:39:50 2017 e -> Type: [Authorization] -> failed
+Mon Aug 21 14:39:50 2017 e -> Type: [Authorization] -> failed
+Mon Aug 21 14:39:50 2017 e -> Type: [Authorization] -> failed
+Mon Aug 21 14:39:51 2017 e -> Type: [Authorization] -> failed
+Mon Aug 21 14:39:58 2017  -> Type: [Disconnected]
+Mon Aug 21 14:41:32 2017 jan -> Type: [Authorization] -> failed
+Mon Aug 21 14:41:36 2017 aw -> Type: [Authorization] -> failed
+Mon Aug 21 14:41:36 2017 wad -> Type: [Authorization] -> failed
+Mon Aug 21 14:41:37 2017 wda -> Type: [Authorization] -> failed
+Mon Aug 21 14:41:37 2017 d -> Type: [Authorization] -> failed
+Mon Aug 21 14:41:38 2017 wadadwdd -> Type: [Authorization] -> failed
+Mon Aug 21 14:41:38 2017  -> Type: [Authorization] -> failed
+Mon Aug 21 14:41:38 2017 ad -> Type: [Authorization] -> failed
+Mon Aug 21 14:41:45 2017  -> Type: [Disconnected]
+Mon Aug 21 14:42:00 2017 jan -> Type: [Authorization] -> failed
+Mon Aug 21 14:44:39 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 14:44:44 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 14:45:08 2017 jan -> Type: [Disconnected]
+Mon Aug 21 14:45:09 2017 jan -> Type: [Disconnected]
+Mon Aug 21 14:46:07 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 14:46:11 2017 jan -> Type: [Authorization] -> failed
+Mon Aug 21 14:46:20 2017 marek -> Type: [Authorization] -> succeed
+Mon Aug 21 14:46:23 2017 marek -> Type: [Login] -> failed
+Mon Aug 21 14:46:24 2017 marek -> Type: [Login] -> failed
+Mon Aug 21 14:46:25 2017 marek -> Type: [Login] -> failed
+Mon Aug 21 14:46:25 2017 marek -> Type: [Login] -> failed
+Mon Aug 21 14:46:26 2017 marek -> Type: [Login] -> failed
+Mon Aug 21 14:46:26 2017 marek -> Type: [Login] -> failed
+Mon Aug 21 14:46:26 2017 marek -> Type: [Login] -> failed
+Mon Aug 21 14:46:31 2017 marek -> Type: [Create group] (Group name:[aw]) -> succeed
+Mon Aug 21 14:46:33 2017 marek -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Mon Aug 21 14:46:39 2017 marek -> Type: [Send message->To selected user] (User name:[jan]) Message: [e] -> succeed
+Mon Aug 21 14:46:41 2017 marek -> Type: [Disconnected]
+Mon Aug 21 14:46:46 2017 jan -> Type: [Login] -> failed
+Mon Aug 21 14:46:48 2017 jan -> Type: [Disconnected]
+Mon Aug 21 14:47:36 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 14:47:36 2017 jan -> Type: [Login] -> succeed
+Mon Aug 21 14:47:37 2017 jan -> Type: [Logout] -> succeed
+Mon Aug 21 14:47:40 2017 jan -> Type: [Login] -> succeed
+Mon Aug 21 14:47:40 2017 jan -> Type: [Logout] -> succeed
+Mon Aug 21 14:47:43 2017 jan -> Type: [Send message->To all] Message: [awda] -> succeed
+Mon Aug 21 14:47:45 2017 jan -> Type: [Disconnected]
+Mon Aug 21 14:48:04 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 14:48:06 2017 jan -> Type: [Disconnected]
+Mon Aug 21 14:48:08 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 21 14:48:10 2017 jan -> Type: [Disconnected]
+Mon Aug 21 15:32:39 2017 tes -> Type: [Authorization] -> succeed
+Mon Aug 21 15:32:45 2017 tes -> Type: [Create group] (Group name:[aw]) -> succeed
+Mon Aug 21 15:34:43 2017 tes -> Type: [Disconnected]
+Tue Aug 22 10:19:44 2017 test -> Type: [Authorization] -> succeed
+Tue Aug 22 10:19:54 2017 test -> Type: [Create group] (Group name:[testgroup]) -> succeed
+Tue Aug 22 10:19:57 2017 test -> Type: [Group members list] (Group name:[]) -> succeed
+Tue Aug 22 10:20:41 2017 test2 -> Type: [Authorization] -> succeed
+Tue Aug 22 10:20:47 2017 test2 -> Type: [Join group] (Group name:[testgroup]) -> succeed
+Tue Aug 22 10:20:48 2017 test2 -> Type: [Group members list] (Group name:[]) -> succeed
+Tue Aug 22 10:21:32 2017 test2 -> Type: [Disconnected]
+Tue Aug 22 10:21:34 2017 test -> Type: [Disconnected]
+Tue Aug 22 10:25:11 2017 test -> Type: [Authorization] -> succeed
+Tue Aug 22 10:25:16 2017 test -> Type: [Create group] (Group name:[testowagrupa]) -> succeed
+Tue Aug 22 10:25:20 2017 test -> Type: [Group members list] (Group name:[testowagrupa]) -> succeed
+Tue Aug 22 10:25:47 2017 test2 -> Type: [Authorization] -> succeed
+Tue Aug 22 10:25:51 2017 test2 -> Type: [Join group] (Group name:[testowagrupa]) -> succeed
+Tue Aug 22 10:25:53 2017 test2 -> Type: [Group members list] (Group name:[testowagrupa]) -> succeed
+Tue Aug 22 10:26:06 2017 test -> Type: [Change leader] (User name:[test2]) -> succeed
+Tue Aug 22 10:26:08 2017 test -> Type: [Group members list] (Group name:[testowagrupa]) -> succeed
+Tue Aug 22 10:28:38 2017 test2 -> Type: [Disconnected]
+Tue Aug 22 10:30:18 2017 test -> Type: [Authorization] -> succeed
+Tue Aug 22 10:30:23 2017 test -> Type: [Create group] (Group name:[wad]) -> succeed
+Tue Aug 22 10:30:31 2017 teeest -> Type: [Authorization] -> succeed
+Tue Aug 22 10:30:35 2017 teeest -> Type: [Join group] (Group name:[awd]) -> failed
+Tue Aug 22 10:30:42 2017 teeest -> Type: [Join group] (Group name:[wad]) -> succeed
+Tue Aug 22 10:30:46 2017 test -> Type: [Disconnected]
+Tue Aug 22 10:30:51 2017 teeest -> Type: [Group members list] (Group name:[wad]) -> succeed
+Tue Aug 22 10:30:56 2017 teeest -> Type: [Disconnected]
+Tue Aug 22 12:23:50 2017 jarek -> Type: [Authorization] -> succeed
+Tue Aug 22 12:23:54 2017 jarek -> Type: [Login] -> succeed
+Tue Aug 22 12:23:55 2017 jarek -> Type: [Logout] -> succeed
+Tue Aug 22 12:23:58 2017 jarek -> Type: [Join group] (Group name:[awda]) -> failed
+Tue Aug 22 12:24:05 2017 jarek -> Type: [Create group] (Group name:[pl]) -> succeed
+Tue Aug 22 12:24:17 2017 jarek -> Type: [Remove user from group] (User name:[jarek]) -> succeed
+Tue Aug 22 12:24:26 2017 jarek -> Type: [Join group] (Group name:[pl]) -> failed
+Tue Aug 22 12:24:36 2017 jarek -> Type: [Create group] (Group name:[pl]) -> succeed
+Tue Aug 22 12:24:39 2017 jarek -> Type: [Group members list] (Group name:[pl]) -> succeed
+Tue Aug 22 12:24:46 2017 jarek -> Type: [Send message->To group] (Group name:[pl]) Message: [jarek: aw] -> succeed
+Tue Aug 22 12:24:59 2017 jarek -> Type: [Abandon group] (Group name:[pl]) -> succeed
+Tue Aug 22 12:25:03 2017 jarek -> Type: [Disconnected]
+Tue Aug 22 13:43:54 2017 czesc -> Type: [Authorization] -> succeed
+Tue Aug 22 13:43:59 2017 czesc -> Type: [Login] -> succeed
+Tue Aug 22 13:44:03 2017 czesc -> Type: [Logout] -> succeed
+Tue Aug 22 13:44:08 2017 czesc -> Type: [Send message->To all] Message: [aw] -> succeed
+Tue Aug 22 13:44:17 2017 czesc -> Type: [Disconnected]
+Tue Aug 22 14:13:10 2017 test -> Type: [Authorization] -> succeed
+Tue Aug 22 14:13:18 2017 test -> Type: [Send message->To selected user] (User name:[test]) Message: [czesc] -> succeed
+Tue Aug 22 14:13:27 2017 test -> Type: [Send message->To all] Message: [aw] -> succeed
+Tue Aug 22 14:13:37 2017 test -> Type: [Send message->To selected user] (User name:[aw]) Message: [czesc] -> failed
+Tue Aug 22 14:14:07 2017 test -> Type: [Disconnected]
+Tue Aug 22 15:23:12 2017 test -> Type: [Authorization] -> succeed
+Tue Aug 22 15:23:17 2017 test -> Type: [Login] -> succeed
+Tue Aug 22 15:23:18 2017 test -> Type: [Logout] -> succeed
+Tue Aug 22 15:23:21 2017 test -> Type: [Join group] (Group name:[aw]) -> failed
+Tue Aug 22 15:23:25 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Tue Aug 22 15:23:26 2017 test -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Tue Aug 22 15:23:32 2017 test -> Type: [Send message->To all] Message: [aw] -> succeed
+Tue Aug 22 15:23:45 2017 test -> Type: [Send message->To selected user] (User name:[test]) Message: [aw] -> succeed
+Tue Aug 22 15:23:53 2017 test -> Type: [Send message->To selected user] (User name:[aa]) Message: [aw] -> failed
+Tue Aug 22 15:23:58 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Tue Aug 22 15:24:03 2017 test -> Type: [Group members list] (Group name:[aw]) -> succeed
+Tue Aug 22 15:24:17 2017 test -> Type: [Change leader] (User name:[test]) -> failed
+Tue Aug 22 15:24:26 2017 test -> Type: [Change leader] (User name:[awd]) -> failed
+Tue Aug 22 15:24:39 2017 awd -> Type: [Authorization] -> succeed
+Tue Aug 22 15:24:44 2017 test -> Type: [Change leader] (User name:[awd]) -> failed
+Tue Aug 22 15:24:48 2017 awd -> Type: [Join group] (Group name:[aw]) -> succeed
+Tue Aug 22 15:24:50 2017 test -> Type: [Change leader] (User name:[awd]) -> succeed
+Tue Aug 22 15:24:59 2017 awd -> Type: [Remove user from group] (User name:[test]) -> succeed
+Tue Aug 22 15:25:07 2017 test -> Type: [Join group] (Group name:[aw]) -> succeed
+Tue Aug 22 15:25:11 2017 awd -> Type: [Disconnected]
+Tue Aug 22 15:25:13 2017 test -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Tue Aug 22 15:25:14 2017 test -> Type: [Disconnected]
+Thu Aug 24 09:33:19 2017 aw -> Type: [Authorization] -> succeed
+Thu Aug 24 09:42:51 2017 ew -> Type: [Authorization] -> succeed
+Thu Aug 24 10:03:32 2017 awd -> Type: [Authorization] -> succeed
+Thu Aug 24 10:03:33 2017 awd -> Type: [Login] -> succeed
+Thu Aug 24 10:03:33 2017 awd -> Type: [Logout] -> succeed
+Thu Aug 24 10:03:34 2017 awd -> Type: [Login] -> succeed
+Thu Aug 24 10:03:37 2017 awd -> Type: [Disconnected]
+Fri Aug 25 09:49:54 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 09:50:06 2017  -> Type: [Join group] (Group name:[wlad]) -> failed (This Client is not login)
+Fri Aug 25 09:50:12 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 09:50:17 2017 test -> Type: [Join group] (Group name:[wlad]) -> failed (wlad group does not exists)
+Fri Aug 25 09:50:26 2017 test -> Type: [Create group] (Group name:[wlad]) -> succeed
+Fri Aug 25 09:50:31 2017 test -> Type: [Change leader] (User name:[el]) -> failed (el is not a member of wlad group)
+Fri Aug 25 09:50:39 2017 test -> Type: [Remove user from group] (User name:[el]) -> failed
+Fri Aug 25 09:51:44 2017 test -> Type: [Group members list] (Group name:[wlad]) -> succeed
+Fri Aug 25 09:54:37 2017 test -> Type: [Send message->To all] Message: [aw] -> succeed
+Fri Aug 25 09:55:27 2017 w -> Type: [Authorization] -> succeed
+Fri Aug 25 09:55:32 2017 w -> Type: [Login] -> succeed
+Fri Aug 25 09:55:35 2017 w -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 09:55:42 2017 w -> Type: [Send message->To selected user] (User name:[s]) Message: [w] -> failed (s is not login)
+Fri Aug 25 09:55:55 2017 w -> Type: [Send message->To all] Message: [aw] -> succeed
+Fri Aug 25 09:56:53 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 09:56:57 2017 test -> Type: [Create group] (Group name:[aw]) -> failed (This Client is not login)
+Fri Aug 25 09:57:02 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 09:57:03 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 09:57:59 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 09:58:00 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 09:58:01 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 09:59:09 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 09:59:09 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 09:59:10 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 09:59:12 2017 test -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Fri Aug 25 09:59:12 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 09:59:30 2017 test -> Type: [Logout] -> succeed
+Fri Aug 25 09:59:31 2017 test -> Type: [Create group] (Group name:[aw]) -> failed (This Client is not login)
+Fri Aug 25 09:59:33 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 09:59:35 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 09:59:38 2017 test -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 09:59:44 2017 test -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 10:00:18 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 10:00:27 2017 test -> Type: [Change leader] (User name:[test2]) -> failed (test2 is not a member of aw group)
+Fri Aug 25 10:00:34 2017 test -> Type: [Remove user from group] (User name:[test2]) -> failed
+Fri Aug 25 10:00:53 2017 test2 -> Type: [Join group] (Group name:[aw]) -> failed (This Client is not login)
+Fri Aug 25 10:01:15 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 10:01:17 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 10:01:20 2017 test2 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 10:01:23 2017 test -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 10:01:27 2017 test -> Type: [Change leader] (User name:[test2]) -> succeed
+Fri Aug 25 10:01:29 2017 test -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 10:01:33 2017 test2 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 10:02:08 2017 test2 -> Type: [Disconnected]
+test in now the leader of aw group
+Fri Aug 25 10:03:55 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 10:03:56 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 10:03:57 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 10:03:59 2017 test2 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 10:04:03 2017 test -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Fri Aug 25 10:04:03 2017 SYSTEM -> test2 in now the leader of aw group
+
+Fri Aug 25 10:04:55 2017 test2 -> Type: [Logout] -> succeed
+Fri Aug 25 10:04:57 2017 test2 -> Type: [Abandon group] (Group name:[aw]) -> failed (This Client is not login)
+Fri Aug 25 10:05:00 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 10:05:00 2017 test2 -> Type: [Abandon group] (Group name:[aw]) -> succeed
+Fri Aug 25 10:05:00 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 10:05:08 2017 test2 -> Type: [Disconnected]
+Fri Aug 25 10:05:11 2017 test -> Type: [Disconnected]
+Fri Aug 25 10:09:37 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 10:09:42 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 10:09:45 2017 test -> Type: [Create group] (Group name:[w]) -> succeed
+Fri Aug 25 10:09:47 2017 test -> Type: [Abandon group] (Group name:[w]) -> succeed
+Fri Aug 25 10:09:47 2017 SYSTEM -> w group was destroyedFri Aug 25 10:09:50 2017 test -> Type: [Logout] -> succeed
+Fri Aug 25 10:09:50 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 10:10:19 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 10:11:40 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 10:11:41 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 10:11:41 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 10:11:42 2017 test -> Type: [Disconnected]
+Fri Aug 25 10:11:42 2017 test -> Type: [Disconnected]
+Fri Aug 25 10:12:10 2017 w -> Type: [Authorization] -> succeed
+Fri Aug 25 10:12:10 2017 w -> Type: [Disconnected]
+Fri Aug 25 10:12:20 2017 a -> Type: [Authorization] -> succeed
+Fri Aug 25 10:12:21 2017 a -> Type: [Login] -> succeed
+Fri Aug 25 10:12:22 2017 a -> Type: [Disconnected]
+Fri Aug 25 10:12:27 2017 aw -> Type: [Authorization] -> succeed
+Fri Aug 25 10:12:29 2017 aw -> Type: [Login] -> succeed
+Fri Aug 25 10:12:32 2017 aw -> Type: [Create group] (Group name:[aww]) -> succeed
+Fri Aug 25 10:12:33 2017 aw -> Type: [Disconnected]
+Fri Aug 25 10:12:33 2017 aw -> Type: [Disconnected]
+Fri Aug 25 10:13:48 2017 SD -> Type: [Authorization] -> succeed
+Fri Aug 25 10:13:50 2017 SD -> Type: [Login] -> succeed
+Fri Aug 25 10:13:52 2017 SD -> Type: [Create group] (Group name:[wdwd]) -> succeed
+Fri Aug 25 10:13:57 2017 SD -> Type: [Disconnected]
+Fri Aug 25 10:13:57 2017 SD -> Type: [Disconnected]
+Fri Aug 25 10:14:31 2017 wdawd -> Type: [Authorization] -> succeed
+Fri Aug 25 10:14:31 2017 wdawd -> Type: [Login] -> succeed
+Fri Aug 25 10:14:33 2017 wdawd -> Type: [Create group] (Group name:[awdaw]) -> succeed
+Fri Aug 25 10:14:33 2017 wdawd -> Type: [Disconnected]
+Fri Aug 25 10:14:33 2017 wdawd -> Type: [Disconnected]
+Fri Aug 25 10:15:52 2017 okl -> Type: [Authorization] -> succeed
+Fri Aug 25 10:15:55 2017 okl -> Type: [Login] -> succeed
+Fri Aug 25 10:15:56 2017 okl -> Type: [Create group] (Group name:[awda]) -> succeed
+Fri Aug 25 10:15:58 2017 okl -> Type: [Disconnected]
+Fri Aug 25 10:15:58 2017 SYSTEM -> awda group was destroyd
+Fri Aug 25 10:26:49 2017 ww -> Type: [Authorization] -> succeed
+Fri Aug 25 10:26:50 2017 ww -> Type: [Login] -> succeed
+Fri Aug 25 10:26:50 2017 ww -> Type: [Logout] -> succeed
+Fri Aug 25 10:26:54 2017 ww -> Type: [Login] -> succeed
+Fri Aug 25 10:26:55 2017 ww -> Type: [Create group] (Group name:[awda]) -> succeed
+Fri Aug 25 10:26:56 2017 ww -> Type: [Logout] -> succeed
+Fri Aug 25 10:26:56 2017 SYSTEM -> awda group was destroyedFri Aug 25 10:27:14 2017 ww -> Type: [Abandon group] (Group name:[awda]) -> failed (You are not login)
+Fri Aug 25 10:27:18 2017 ww -> Type: [Login] -> succeed
+Fri Aug 25 10:27:18 2017 ww -> Type: [Abandon group] (Group name:[awda]) -> failed (awda group does not exists)
+Fri Aug 25 10:27:22 2017 ww -> Type: [Disconnected]
+Fri Aug 25 10:29:20 2017 aw -> Type: [Authorization] -> succeed
+Fri Aug 25 10:29:21 2017 aw -> Type: [Login] -> succeed
+Fri Aug 25 10:29:22 2017 aw -> Type: [Create group] (Group name:[adw]) -> succeed
+Fri Aug 25 10:29:25 2017 aw -> Type: [Logout] -> succeed
+Fri Aug 25 10:29:25 2017 SYSTEM -> adw group was destroyedFri Aug 25 10:29:29 2017 aw -> Type: [Join group] (Group name:[adw]) -> failed (You are not login)
+Fri Aug 25 10:29:31 2017 aw -> Type: [Login] -> succeed
+Fri Aug 25 10:29:34 2017 aw -> Type: [Join group] (Group name:[adw]) -> failed (adw group does not exists)
+Fri Aug 25 10:30:07 2017 aw -> Type: [Disconnected]
+Fri Aug 25 11:50:46 2017 bum -> Type: [Authorization] -> succeed
+Fri Aug 25 11:50:47 2017 bum -> Type: [Login] -> succeed
+Fri Aug 25 11:50:48 2017 bum -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 11:50:56 2017 bum2 -> Type: [Authorization] -> succeed
+Fri Aug 25 11:50:58 2017 bum2 -> Type: [Login] -> succeed
+Fri Aug 25 11:51:02 2017 bum2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 11:51:09 2017 bum2 -> Type: [Vote kick] (User Name:[aw]) -> failed (ais not a member of aw group)
+Fri Aug 25 11:51:19 2017 bum2 -> Type: [Vote kick] (User Name:[aw]) -> failed (bumis leader of aw group. U can not kick group leader)
+Fri Aug 25 11:51:41 2017 bum3 -> Type: [Authorization] -> succeed
+Fri Aug 25 11:51:42 2017 bum3 -> Type: [Login] -> succeed
+Fri Aug 25 11:51:43 2017 bum3 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 11:51:48 2017 bum4 -> Type: [Authorization] -> succeed
+Fri Aug 25 11:51:49 2017 bum4 -> Type: [Login] -> succeed
+Fri Aug 25 11:51:51 2017 bum4 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 11:51:53 2017 bum4 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 11:52:00 2017 bum4 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 11:52:08 2017 bum3 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 11:52:08 2017 SYSTEM -> bum2 was kicked from aw groupFri Aug 25 11:52:45 2017 bum4 -> Type: [Vote kick] (User Name:[aw]) -> failed (bum2is not a member of aw group)
+Fri Aug 25 12:36:42 2017 bum2 -> Type: [Disconnected]
+Fri Aug 25 12:36:45 2017 bum3 -> Type: [Disconnected]
+Fri Aug 25 12:36:48 2017 bum4 -> Type: [Disconnected]
+Fri Aug 25 12:36:51 2017 bum -> Type: [Disconnected]
+Fri Aug 25 12:36:51 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 12:38:52 2017 bum -> Type: [Authorization] -> succeed
+Fri Aug 25 12:38:54 2017 bum -> Type: [Login] -> succeed
+Fri Aug 25 12:38:55 2017 bum -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:38:59 2017 bum -> Type: [Authorization] -> failed (bum is already authorized)
+Fri Aug 25 12:39:01 2017 bum2 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:39:02 2017 bum2 -> Type: [Login] -> succeed
+Fri Aug 25 12:39:05 2017 bum2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:39:09 2017 bum3 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:39:12 2017 bum3 -> Type: [Login] -> succeed
+Fri Aug 25 12:39:14 2017 bum3 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:39:18 2017 bum3 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:40:38 2017 bum5 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:40:41 2017 bum5 -> Type: [Login] -> succeed
+Fri Aug 25 12:40:41 2017 bum5 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:40:45 2017 bum5 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:40:45 2017 SYSTEM -> bum2 was kicked from aw group
+Fri Aug 25 12:40:59 2017 bum5 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 12:41:09 2017 bum2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:41:13 2017 bum2 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 12:41:29 2017 bum6 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:41:30 2017 bum6 -> Type: [Login] -> succeed
+Fri Aug 25 12:41:31 2017 bum6 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:41:34 2017 bum6 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:41:34 2017 SYSTEM -> bum2 was kicked from aw group
+Fri Aug 25 12:41:42 2017 bum2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:42:03 2017 bum2 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:42:03 2017 SYSTEM -> bum2 was kicked from aw group
+Fri Aug 25 12:42:18 2017 bum6 -> Type: [Vote kick] (User Name:[aw]) -> failed (bum2is not a member of aw group)
+Fri Aug 25 12:42:44 2017 bum2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:42:49 2017 bum7 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:42:51 2017 bum7 -> Type: [Login] -> succeed
+Fri Aug 25 12:42:53 2017 bum7 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:42:55 2017 bum7 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:42:55 2017 SYSTEM -> bum2 was kicked from aw group
+Fri Aug 25 12:43:00 2017 bum6 -> Type: [Vote kick] (User Name:[aw]) -> failed (bum2is not a member of aw group)
+Fri Aug 25 12:43:08 2017 bum6 -> Type: [Vote kick] (User Name:[aw]) -> failed (bum2is not a member of aw group)
+Fri Aug 25 12:44:30 2017 bum5 -> Type: [Disconnected]
+Fri Aug 25 12:44:30 2017 bum6 -> Type: [Disconnected]
+Fri Aug 25 12:44:30 2017 bum3 -> Type: [Disconnected]
+Fri Aug 25 12:44:30 2017 bum -> Type: [Disconnected]
+Fri Aug 25 12:44:30 2017 SYSTEM -> bum7 in now the leader of aw group
+
+Fri Aug 25 12:44:30 2017 bum7 -> Type: [Disconnected]
+Fri Aug 25 12:44:30 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 12:44:30 2017 bum2 -> Type: [Disconnected]
+Fri Aug 25 12:48:07 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 12:48:10 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:48:14 2017 test3 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:48:18 2017 test4 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:48:23 2017 test5 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:48:26 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 12:48:29 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:48:32 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 12:48:34 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:48:36 2017 test3 -> Type: [Login] -> succeed
+Fri Aug 25 12:48:37 2017 test3 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:48:40 2017 test4 -> Type: [Login] -> succeed
+Fri Aug 25 12:48:40 2017 test4 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:48:43 2017 test5 -> Type: [Login] -> succeed
+Fri Aug 25 12:48:44 2017 test5 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:49:04 2017 test2 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:49:09 2017 test3 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:49:09 2017 SYSTEM -> test5 have 2/4 votes too kick
+Fri Aug 25 12:49:24 2017 test4 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:49:24 2017 SYSTEM -> test5 have 3/4 votes too kick
+Fri Aug 25 12:53:13 2017 test3 -> Type: [Disconnected]
+Fri Aug 25 12:53:13 2017 test -> Type: [Disconnected]
+Fri Aug 25 12:53:13 2017 SYSTEM -> test2 is now the leader of aw group
+Fri Aug 25 12:53:13 2017 test4 -> Type: [Disconnected]
+Fri Aug 25 12:53:13 2017 test5 -> Type: [Disconnected]
+Fri Aug 25 12:53:13 2017 test2 -> Type: [Disconnected]
+Fri Aug 25 12:53:13 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 12:53:39 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 12:53:43 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:53:46 2017 test3 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:53:50 2017 test4 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:53:54 2017 test5 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:53:58 2017 test6 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:54:02 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 12:54:05 2017 test -> Type: [Join group] (Group name:[aw]) -> failed (aw group does not exists)
+Fri Aug 25 12:54:06 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:54:09 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 12:54:10 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:54:13 2017 test3 -> Type: [Login] -> succeed
+Fri Aug 25 12:54:15 2017 test3 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:54:17 2017 test4 -> Type: [Login] -> succeed
+Fri Aug 25 12:54:29 2017 test4 -> Type: [Disconnected]
+Fri Aug 25 12:54:37 2017 test4 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:54:39 2017 test4 -> Type: [Login] -> succeed
+Fri Aug 25 12:54:40 2017 test4 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:54:43 2017 test5 -> Type: [Login] -> succeed
+Fri Aug 25 12:54:44 2017 test5 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:54:57 2017 test2 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 12:55:03 2017 test2 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:55:09 2017 test4 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:55:09 2017 SYSTEM -> test5 have 0/0 votes too kick
+Fri Aug 25 12:55:41 2017 test3 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:55:41 2017 SYSTEM -> test5 have 0/0 votes too kick
+Fri Aug 25 12:56:56 2017 test6 -> Type: [Disconnected]
+Fri Aug 25 12:56:56 2017 test3 -> Type: [Disconnected]
+Fri Aug 25 12:56:56 2017 test2 -> Type: [Disconnected]
+Fri Aug 25 12:56:56 2017 test -> Type: [Disconnected]
+Fri Aug 25 12:56:56 2017 SYSTEM -> test4 is now the leader of aw group
+Fri Aug 25 12:56:56 2017 test5 -> Type: [Disconnected]
+Fri Aug 25 12:56:56 2017 test4 -> Type: [Disconnected]
+Fri Aug 25 12:56:56 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 12:58:01 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 12:58:01 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 12:58:02 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:58:07 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:58:09 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 12:58:10 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:58:15 2017 test3 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:58:16 2017 test3 -> Type: [Login] -> succeed
+Fri Aug 25 12:58:21 2017 test3 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:58:26 2017 test4 -> Type: [Authorization] -> succeed
+Fri Aug 25 12:58:27 2017 test4 -> Type: [Login] -> succeed
+Fri Aug 25 12:58:28 2017 test4 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 12:58:30 2017 test4 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 12:58:34 2017 test4 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:58:34 2017 SYSTEM -> test2 have 1/0 votes too kick
+Fri Aug 25 12:58:54 2017 test3 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 12:58:54 2017 SYSTEM -> test2 have 0/0 votes too kick
+Fri Aug 25 13:00:31 2017 test4 -> Type: [Disconnected]
+Fri Aug 25 13:00:31 2017 test3 -> Type: [Disconnected]
+Fri Aug 25 13:00:31 2017 test -> Type: [Disconnected]
+Fri Aug 25 13:00:31 2017 SYSTEM -> test2 is now the leader of aw group
+Fri Aug 25 13:00:31 2017 test2 -> Type: [Disconnected]
+Fri Aug 25 13:00:31 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 13:01:27 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 13:01:29 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 13:01:32 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:01:38 2017 test1 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:01:39 2017 test1 -> Type: [Login] -> succeed
+Fri Aug 25 13:01:40 2017 test1 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:01:43 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:01:45 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 13:01:46 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:01:50 2017 test3 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:01:51 2017 test3 -> Type: [Login] -> succeed
+Fri Aug 25 13:01:52 2017 test3 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:01:54 2017 test3 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 13:01:54 2017 SYSTEM -> test1 have 1/0 votes too kick
+Fri Aug 25 13:02:03 2017 test2 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 13:02:03 2017 SYSTEM -> test1 have 0/0 votes too kick
+Fri Aug 25 13:02:09 2017 test1 -> Type: [Disconnected]
+Fri Aug 25 13:02:09 2017 test -> Type: [Disconnected]
+Fri Aug 25 13:02:09 2017 SYSTEM -> test2 is now the leader of aw group
+Fri Aug 25 13:02:09 2017 test3 -> Type: [Disconnected]
+Fri Aug 25 13:02:09 2017 test2 -> Type: [Disconnected]
+Fri Aug 25 13:02:09 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 13:03:11 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 13:03:12 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 13:03:13 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:03:15 2017 1 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:03:16 2017 1 -> Type: [Join group] (Group name:[aw]) -> failed (You are not login)
+Fri Aug 25 13:03:17 2017 1 -> Type: [Login] -> succeed
+Fri Aug 25 13:03:18 2017 1 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:03:24 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:03:25 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 13:03:26 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:03:32 2017 test4 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:03:33 2017 test4 -> Type: [Login] -> succeed
+Fri Aug 25 13:03:33 2017 test4 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:03:35 2017 test4 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 13:03:40 2017 test4 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 13:03:40 2017 SYSTEM -> 1 have 1/4 votes too kick
+Fri Aug 25 13:03:43 2017 test2 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 13:03:43 2017 SYSTEM -> 1 have 2/0 votes too kick
+Fri Aug 25 13:04:15 2017 test -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 13:06:27 2017 1 -> Type: [Disconnected]
+Fri Aug 25 13:06:27 2017 test -> Type: [Disconnected]
+Fri Aug 25 13:06:27 2017 SYSTEM -> test2 is now the leader of aw group
+Fri Aug 25 13:06:27 2017 test4 -> Type: [Disconnected]
+Fri Aug 25 13:06:27 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 13:07:19 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 13:07:20 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 13:07:23 2017 test -> Type: [Join group] (Group name:[aw]) -> failed (aw group does not exists)
+Fri Aug 25 13:07:24 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:07:29 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:07:30 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 13:07:31 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:07:35 2017 test3 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:07:36 2017 test3 -> Type: [Login] -> succeed
+Fri Aug 25 13:07:37 2017 test3 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:07:38 2017 test3 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 13:07:44 2017 test4 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:07:45 2017 test4 -> Type: [Login] -> succeed
+Fri Aug 25 13:07:46 2017 test4 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:07:47 2017 test4 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 13:07:47 2017 SYSTEM -> test2 have 1/0 votes too kick
+Fri Aug 25 13:12:33 2017 test4 -> Type: [Disconnected]
+Fri Aug 25 13:12:33 2017 test3 -> Type: [Disconnected]
+Fri Aug 25 13:12:33 2017 test -> Type: [Disconnected]
+Fri Aug 25 13:12:33 2017 SYSTEM -> test2 is now the leader of aw group
+Fri Aug 25 13:12:33 2017 test2 -> Type: [Disconnected]
+Fri Aug 25 13:12:33 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 13:13:20 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 13:13:21 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 13:13:22 2017 test -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:13:27 2017 test1 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:13:28 2017 test1 -> Type: [Login] -> succeed
+Fri Aug 25 13:13:29 2017 test1 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:13:32 2017 test2 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:13:33 2017 test2 -> Type: [Login] -> succeed
+Fri Aug 25 13:13:35 2017 test2 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:13:40 2017 test3 -> Type: [Authorization] -> succeed
+Fri Aug 25 13:13:41 2017 test3 -> Type: [Login] -> succeed
+Fri Aug 25 13:13:41 2017 test3 -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 13:13:49 2017 test3 -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 13:14:21 2017 test3 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 13:14:21 2017 SYSTEM -> test1 have 1/2 votes too kick
+Fri Aug 25 13:14:37 2017 test2 -> Type: [Vote kick] (User Name:[aw]) -> succeed
+Fri Aug 25 13:14:37 2017 SYSTEM -> test1 was kicked from aw group
+Fri Aug 25 13:14:48 2017 test -> Type: [Group members list] (Group name:[aw]) -> succeed
+Fri Aug 25 13:15:16 2017 test -> Type: [Logout] -> succeed
+Fri Aug 25 13:15:16 2017 SYSTEM -> test3 is now the leader of aw group
+Fri Aug 25 13:21:39 2017 test3 -> Type: [Disconnected]
+Fri Aug 25 13:21:39 2017 SYSTEM -> test2 is now the leader of aw group
+Fri Aug 25 13:21:39 2017 test1 -> Type: [Disconnected]
+Fri Aug 25 13:21:39 2017 test -> Type: [Disconnected]
+Fri Aug 25 13:21:39 2017 test2 -> Type: [Disconnected]
+Fri Aug 25 13:21:39 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 14:34:45 2017 jan -> Type: [Authorization] -> succeed
+Fri Aug 25 14:34:47 2017 jan -> Type: [Login] -> succeed
+Fri Aug 25 14:34:52 2017 jan -> Type: [Create group] (Group name:[kowale]) -> succeed
+Fri Aug 25 14:38:35 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 14:38:36 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 14:38:39 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Fri Aug 25 14:39:26 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 14:39:27 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 14:39:30 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Fri Aug 25 14:40:49 2017 test -> Type: [Authorization] -> succeed
+Fri Aug 25 14:40:49 2017 test -> Type: [Login] -> succeed
+Fri Aug 25 14:40:51 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Fri Aug 25 14:40:54 2017 test -> Type: [Invite to group] (User name:[test]) -> succeed
+Fri Aug 25 14:42:48 2017 test -> Type: [Invite to group] (User name:[test]) -> failed (This user is already a memeber of test group)
+Fri Aug 25 14:43:03 2017 tesst -> Type: [Authorization] -> succeed
+Fri Aug 25 14:43:05 2017 tesst -> Type: [Login] -> succeed
+Fri Aug 25 14:43:10 2017 test -> Type: [Invite to group] (User name:[test]) -> succeed
+Fri Aug 25 14:43:18 2017 tesst -> Type: [Logout] -> succeed
+Fri Aug 25 14:43:18 2017 tesst -> Type: [Login] -> succeed
+Fri Aug 25 14:43:25 2017 test -> Type: [Invite to group] (User name:[test]) -> succeed
+Fri Aug 25 14:43:28 2017 tesst -> Type: [Join group] (Group name:[test]) -> succeed
+Fri Aug 25 14:43:35 2017 test -> Type: [Group members list] (Group name:[test]) -> succeed
+Fri Aug 25 14:43:38 2017 test -> Type: [Disconnected]
+Fri Aug 25 14:43:38 2017 SYSTEM -> tesst is now the leader of test group
+Fri Aug 25 14:43:42 2017 tesst -> Type: [Logout] -> succeed
+Fri Aug 25 14:43:42 2017 SYSTEM -> test group was destroyed
+Fri Aug 25 14:43:56 2017 tesst -> Type: [Disconnected]
+Fri Aug 25 14:45:14 2017 1 -> Type: [Authorization] -> succeed
+Fri Aug 25 14:45:15 2017 1 -> Type: [Login] -> succeed
+Fri Aug 25 14:45:16 2017 1 -> Type: [Create group] (Group name:[1]) -> succeed
+Fri Aug 25 14:45:20 2017 1 -> Type: [Group members list] (Group name:[1]) -> succeed
+Fri Aug 25 14:45:24 2017 1 -> Type: [Invite to group] (User name:[1]) -> failed (This user is already a memeber of 1 group)
+Fri Aug 25 14:45:26 2017 1 -> Type: [Invite to group] (User name:[1]) -> failed (2 is not login)
+Fri Aug 25 14:45:43 2017 2 -> Type: [Authorization] -> succeed
+Fri Aug 25 14:45:44 2017 2 -> Type: [Login] -> succeed
+Fri Aug 25 14:45:47 2017 1 -> Type: [Invite to group] (User name:[1]) -> succeed
+Fri Aug 25 14:45:56 2017 1 -> Type: [Invite to group] (User name:[1]) -> succeed
+Fri Aug 25 14:46:01 2017 2 -> Type: [Join group] (Group name:[1]) -> succeed
+Fri Aug 25 14:46:04 2017 1 -> Type: [Group members list] (Group name:[1]) -> succeed
+Fri Aug 25 14:46:13 2017 1 -> Type: [Change leader] (User name:[2]) -> succeed
+Fri Aug 25 14:46:15 2017 1 -> Type: [Abandon group] (Group name:[1]) -> succeed
+Fri Aug 25 14:46:16 2017 1 -> Type: [Disconnected]
+Fri Aug 25 14:46:20 2017 2 -> Type: [Disconnected]
+Fri Aug 25 14:46:20 2017 SYSTEM -> 1 group was destroyed
+Fri Aug 25 15:32:26 2017 marek -> Type: [Authorization] -> succeed
+Fri Aug 25 15:32:28 2017 marek -> Type: [Login] -> succeed
+Fri Aug 25 15:32:34 2017 marek -> Type: [Create group] (Group name:[aw]) -> succeed
+Fri Aug 25 15:32:48 2017 jan -> Type: [Authorization] -> succeed
+Fri Aug 25 15:32:50 2017 jan -> Type: [Login] -> succeed
+Fri Aug 25 15:32:54 2017 jan -> Type: [Join group] (Group name:[aw]) -> succeed
+Fri Aug 25 15:33:00 2017 pawel -> Type: [Authorization] -> succeed
+Fri Aug 25 15:33:01 2017 pawel -> Type: [Login] -> succeed
+Fri Aug 25 15:33:09 2017 jan -> Type: [Request invite to group] (User name:[aw]) -> succeed
+Fri Aug 25 15:33:14 2017 marek -> Type: [Invite to group] (User name:[jan propose to invite pawel to aw group]) -> failed (jan propose to invite pawel to aw group is not login)
+Fri Aug 25 15:36:42 2017 marek -> Type: [Invite to group] (User name:[pawel]) -> succeed
+Fri Aug 25 15:36:56 2017 marek -> Type: [Disconnected]
+Fri Aug 25 15:36:56 2017 SYSTEM -> jan is now the leader of aw group
+Fri Aug 25 15:36:57 2017 pawel -> Type: [Disconnected]
+Fri Aug 25 15:36:57 2017 jan -> Type: [Disconnected]
+Fri Aug 25 15:36:57 2017 SYSTEM -> aw group was destroyed
+Fri Aug 25 15:37:43 2017 marek -> Type: [Authorization] -> succeed
+Fri Aug 25 15:37:45 2017 marek -> Type: [Login] -> succeed
+Fri Aug 25 15:37:53 2017 marek -> Type: [Create group] (Group name:[kierowca]) -> succeed
+Fri Aug 25 15:38:03 2017 jan -> Type: [Authorization] -> succeed
+Fri Aug 25 15:38:05 2017 jan -> Type: [Login] -> succeed
+Fri Aug 25 15:38:11 2017 jan -> Type: [Join group] (Group name:[kierowcy]) -> failed (kierowcy group does not exists)
+Fri Aug 25 15:38:16 2017 jan -> Type: [Join group] (Group name:[kierowca]) -> succeed
+Fri Aug 25 15:38:22 2017 pawel -> Type: [Authorization] -> succeed
+Fri Aug 25 15:38:23 2017 pawel -> Type: [Login] -> succeed
+Fri Aug 25 15:38:28 2017 jan -> Type: [Request invite to group] (User name:[kierowca]) -> succeed
+Fri Aug 25 15:38:30 2017 marek -> Type: [Invite to group] (User name:[pawel]) -> succeed
+Fri Aug 25 15:38:39 2017 pawel -> Type: [Join group] (Group name:[kierowca]) -> succeed
+Fri Aug 25 15:38:44 2017 pawel -> Type: [Group members list] (Group name:[kierowca]) -> succeed
+Fri Aug 25 15:38:48 2017 jan -> Type: [Disconnected]
+Fri Aug 25 15:38:48 2017 pawel -> Type: [Disconnected]
+Fri Aug 25 15:38:48 2017 marek -> Type: [Disconnected]
+Fri Aug 25 15:38:48 2017 SYSTEM -> kierowca group was destroyed
+Mon Aug 28 09:33:15 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 09:33:19 2017 test -> Type: [Create group] (Group name:[test2]) -> failed (You are not login)
+Mon Aug 28 09:33:23 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 09:33:25 2017 test -> Type: [Create group] (Group name:[test2]) -> succeed
+Mon Aug 28 09:33:30 2017 test -> Type: [Group name change] (Group name:[test2]) -> succeed
+Mon Aug 28 09:34:06 2017 test -> Type: [Group name change] (Group name:[test2]) -> failed (test2 group does not exists)
+Mon Aug 28 09:35:23 2017 test -> Type: [Disconnected]
+Mon Aug 28 09:35:23 2017 SYSTEM -> teest2 group was destroyed
+Mon Aug 28 09:35:44 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 09:35:47 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 09:35:51 2017 test -> Type: [Create group] (Group name:[aws]) -> succeed
+Mon Aug 28 09:35:56 2017 test -> Type: [Group name change] (Group name:[aws]) -> succeed
+Mon Aug 28 09:36:01 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 09:36:01 2017 SYSTEM -> swa group was destroyed
+Mon Aug 28 09:36:02 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 09:36:32 2017 test -> Type: [Disconnected]
+Mon Aug 28 09:37:06 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 28 09:37:06 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 09:37:09 2017 piotr -> Type: [Create group] (Group name:[test21]) -> succeed
+Mon Aug 28 09:37:13 2017 piotr -> Type: [Group name change] (Group name:[test21]) -> succeed
+Mon Aug 28 09:37:54 2017 piotr -> Type: [Invite to group] (User name:[piotr]) -> failed (This user is already a memeber of nietest01020012 group)
+Mon Aug 28 09:39:02 2017 piotr -> Type: [Group members list] (Group name:[nietest01020012]) -> succeed
+Mon Aug 28 09:39:25 2017 piotr -> Type: [Change leader] (User name:[piotr]) -> failed (piotr is already the leader in nietest01020012 group)
+Mon Aug 28 09:39:32 2017 piotr -> Type: [Logout] -> succeed
+Mon Aug 28 09:39:32 2017 SYSTEM -> nietest01020012 group was destroyed
+Mon Aug 28 09:40:08 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 28 09:40:12 2017 jan -> Type: [Create group] (Group name:[te]) -> failed (You are not login)
+Mon Aug 28 09:40:14 2017 jan -> Type: [Login] -> succeed
+Mon Aug 28 09:40:15 2017 jan -> Type: [Create group] (Group name:[te]) -> succeed
+Mon Aug 28 09:40:20 2017 piotr -> Type: [Join group] (Group name:[te]) -> failed (You are not login)
+Mon Aug 28 09:40:21 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 09:40:22 2017 piotr -> Type: [Join group] (Group name:[te]) -> succeed
+Mon Aug 28 09:40:51 2017 jan -> Type: [Logout] -> succeed
+Mon Aug 28 09:40:51 2017 SYSTEM -> piotr is now the leader of te group
+Mon Aug 28 09:41:02 2017 piotr -> Type: [Abandon group] (Group name:[te]) -> succeed
+Mon Aug 28 09:41:02 2017 SYSTEM -> te group was destroyedMon Aug 28 09:41:09 2017 piotr -> Type: [Disconnected]
+Mon Aug 28 09:41:12 2017 jan -> Type: [Disconnected]
+Mon Aug 28 10:36:58 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 10:37:01 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 10:37:05 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 10:37:07 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 10:37:10 2017 test -> Type: [Logout] -> failed (You are not login)
+Mon Aug 28 10:37:13 2017 test -> Type: [Disconnected]
+Mon Aug 28 11:07:23 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 11:07:26 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 11:07:28 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 11:07:30 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 11:07:31 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 11:07:33 2017 test -> Type: [Disconnected]
+Mon Aug 28 12:06:08 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 28 12:06:11 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 12:06:20 2017 piotr -> Type: [] (:[]) -> succeed
+Mon Aug 28 12:06:32 2017 jan -> Type: [Authorization] -> succeed
+Mon Aug 28 12:06:33 2017 jan -> Type: [Login] -> succeed
+Mon Aug 28 12:06:39 2017 jan -> Type: [Logout] -> succeed
+Mon Aug 28 12:06:42 2017 jan -> Type: [Login] -> succeed
+Mon Aug 28 12:06:45 2017 piotr -> Type: [] (:[]) -> succeed
+Mon Aug 28 12:06:54 2017 piotr -> Type: [Disconnected]
+Mon Aug 28 12:06:55 2017 jan -> Type: [Disconnected]
+Mon Aug 28 12:10:55 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 28 12:11:03 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 12:11:12 2017 [ADMIN]piotr -> Type: [Users list] -> succeed
+Mon Aug 28 12:11:34 2017 piotr -> Type: [Disconnected]
+Mon Aug 28 12:20:52 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 28 12:20:56 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 12:21:02 2017 [USER]piotr -> Type: [Logout] -> succeed
+Mon Aug 28 12:21:06 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 12:21:09 2017 [ADMIN]piotr -> Type: [Users list] -> succeed
+Mon Aug 28 12:21:10 2017 [ADMIN]piotr -> Type: [Logout] -> succeed
+Mon Aug 28 12:21:25 2017 piotr -> Type: [Disconnected]
+Mon Aug 28 12:49:34 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 28 12:49:37 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 12:49:38 2017 piotr -> Type: [Groups list]  -> failed (none of group is existing right now)
+Mon Aug 28 12:49:51 2017 piotr -> Type: [Create group] (Group name:[testowa]) -> succeed
+Mon Aug 28 12:49:56 2017 piotr -> Type: [Groups list] -> succeed
+Mon Aug 28 12:50:45 2017 piotr -> Type: [Disconnected]
+Mon Aug 28 12:50:45 2017 SYSTEM -> testowa group was destroyed
+Mon Aug 28 13:26:08 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 28 13:26:10 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 13:26:12 2017 piotr -> Type: [Create group] (Group name:[test]) -> succeed
+Mon Aug 28 13:26:16 2017 piotr -> Type: [] -> succeed
+Mon Aug 28 13:26:33 2017 piotr -> Type: [Groups list]  -> failed (none of group is existing right now)
+Mon Aug 28 13:26:52 2017 piotr -> Type: [Send message->To all] Message: [cze] -> succeed
+Mon Aug 28 13:29:07 2017 piotr -> Type: [Logout] -> succeed
+Mon Aug 28 13:30:12 2017 piotr -> Type: [Disconnected]
+Mon Aug 28 13:30:32 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 28 13:30:35 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 13:30:38 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 13:30:44 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Mon Aug 28 13:30:49 2017 test2 -> Type: [Authorization] -> succeed
+Mon Aug 28 13:30:50 2017 test2 -> Type: [Login] -> succeed
+Mon Aug 28 13:30:53 2017 test2 -> Type: [Join group] (Group name:[test]) -> succeed
+Mon Aug 28 13:30:56 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 13:30:57 2017 piotr -> Type: [Groups list] -> succeed
+Mon Aug 28 13:31:27 2017 piotr -> Type: [] -> succeed
+Mon Aug 28 13:31:34 2017 test -> Type: [Group members list] (Group name:[test]) -> failed (You are not login)
+Mon Aug 28 13:31:45 2017 test -> Type: [Remove user from group] (User name:[w]) -> failed
+Mon Aug 28 13:31:53 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 13:31:56 2017 test2 -> Type: [Logout] -> succeed
+Mon Aug 28 13:31:59 2017 test2 -> Type: [Disconnected]
+Mon Aug 28 13:32:00 2017 test -> Type: [Disconnected]
+Mon Aug 28 13:32:02 2017 piotr -> Type: [Disconnected]
+Mon Aug 28 13:34:07 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 13:34:08 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 13:34:10 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Mon Aug 28 13:34:12 2017 test -> Type: [] -> succeed
+Mon Aug 28 13:34:17 2017 test -> Type: [Disconnected]
+Mon Aug 28 13:36:55 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 13:36:57 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 13:37:04 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Mon Aug 28 13:37:06 2017 test -> Type: [Delete group] -> succeed
+Mon Aug 28 13:37:21 2017 test -> Type: [Disconnected]
+Mon Aug 28 14:29:34 2017 piotr -> Type: [Authorization] -> succeed
+Mon Aug 28 14:29:35 2017 piotr -> Type: [Login] -> succeed
+Mon Aug 28 14:29:42 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 14:29:42 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:29:46 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Mon Aug 28 14:29:50 2017 piotr -> Type: [Groups list (Admin tool)] -> succeed
+Mon Aug 28 14:29:57 2017 test2 -> Type: [Authorization] -> succeed
+Mon Aug 28 14:29:58 2017 test2 -> Type: [Login] -> succeed
+Mon Aug 28 14:30:02 2017 test2 -> Type: [Join group] (Group name:[test]) -> succeed
+Mon Aug 28 14:30:07 2017 piotr -> Type: [Groups list (Admin tool)] -> succeed
+Mon Aug 28 14:30:10 2017 test2 -> Type: [Group members list] (Group name:[test]) -> succeed
+Mon Aug 28 14:30:22 2017 piotr -> Type: [Delete group (Admin tool)] -> (Group name:[test]) succeed
+Mon Aug 28 14:30:28 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Mon Aug 28 14:30:31 2017 test -> Type: [Invite to group] (User name:[test2]) -> succeed
+Mon Aug 28 14:30:34 2017 test2 -> Type: [Join group] (Group name:[test]) -> succeed
+Mon Aug 28 14:30:36 2017 test2 -> Type: [Group members list] (Group name:[test]) -> succeed
+Mon Aug 28 14:31:10 2017 piotr -> Type: [Kick user from group (Admin tool)] (User name:[test2]) -> succeed
+Mon Aug 28 14:31:20 2017 test -> Type: [Group members list] (Group name:[test]) -> succeed
+Mon Aug 28 14:31:23 2017 piotr -> Type: [Groups list (Admin tool)] -> succeed
+Mon Aug 28 14:31:31 2017 test -> Type: [Invite to group] (User name:[test2]) -> succeed
+Mon Aug 28 14:31:33 2017 test2 -> Type: [Join group] (Group name:[test]) -> succeed
+Mon Aug 28 14:31:37 2017 piotr -> Type: [Kick user from group (Admin tool)] (User name:[test]) -> succeed
+Mon Aug 28 14:31:37 2017 SYSTEM -> test2 is now the leader of test groupMon Aug 28 14:31:41 2017 test -> Type: [Disconnected]
+Mon Aug 28 14:31:42 2017 test2 -> Type: [Disconnected]
+Mon Aug 28 14:31:42 2017 SYSTEM -> test group was destroyed
+Mon Aug 28 14:31:43 2017 piotr -> Type: [Disconnected]
+Mon Aug 28 14:37:15 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 14:37:39 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:37:41 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:37:42 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:37:42 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:38:20 2017 test -> Type: [Disconnected]
+Mon Aug 28 14:38:52 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 14:39:11 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:11 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:11 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:11 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:11 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:12 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:16 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:18 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:20 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:21 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:22 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:23 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:23 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:23 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:24 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:24 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:25 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:25 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:25 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:25 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:26 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:39:26 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:39:42 2017 test -> Type: [Disconnected]
+Mon Aug 28 14:40:09 2017 test -> Type: [Authorization] -> succeed
+Mon Aug 28 14:40:18 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:19 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:19 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:20 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:21 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:21 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:21 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:22 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:22 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:22 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:23 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:23 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:24 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:26 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:27 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:27 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:28 2017 test -> Type: [Login] -> succeed
+Mon Aug 28 14:40:29 2017 test -> Type: [Logout] -> succeed
+Mon Aug 28 14:40:30 2017 test -> Type: [Disconnected]
+Tue Aug 29 13:10:27 2017  -> Type: [Login] -> succeed
+Tue Aug 29 13:10:40 2017  -> Type: [Disconnected]
+Tue Aug 29 13:11:32 2017  -> Type: [Login] -> succeed
+Tue Aug 29 13:11:37 2017 s -> Type: [Authorization] -> succeed
+Tue Aug 29 13:11:50 2017 s -> Type: [Disconnected]
+Tue Aug 29 13:12:20 2017  -> Type: [Login] -> failed (invalid login or password)
+Tue Aug 29 13:12:22 2017  -> Type: [Authorization] -> succeed
+Tue Aug 29 13:12:26 2017  -> Type: [Disconnected]
+Tue Aug 29 13:14:17 2017  -> Type: [Login] -> succeed
+Tue Aug 29 13:14:26 2017 piotr -> Type: [Create group] (Group name:[test]) -> succeed
+Tue Aug 29 13:14:29 2017 piotr -> Type: [Delete group (Admin tool)] -> (Group name:[test]) succeed
+Tue Aug 29 13:14:32 2017  -> Type: [Disconnected]
+Tue Aug 29 15:10:04 2017  -> Type: [Login] -> succeed
+Tue Aug 29 15:10:16 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Tue Aug 29 15:10:25 2017 piotr -> Type: [Groups list (Admin tool)]  -> failed (none of group is existing right now)
+Tue Aug 29 15:10:44 2017 piotr -> Type: [Logout] -> succeed
+Tue Aug 29 15:11:00 2017  -> Type: [Login] -> failed (invalid login or password)
+Tue Aug 29 15:11:05 2017  -> Type: [Login] -> succeed
+Tue Aug 29 15:11:07 2017 piotr -> Type: [Logout] -> succeed
+Tue Aug 29 15:14:59 2017 jakub -> Type: [Authorization] -> succeed
+Tue Aug 29 15:15:04 2017  -> Type: [Login] -> failed (invalid login or password)
+Tue Aug 29 15:15:40 2017  -> Type: [Disconnected]
+Tue Aug 29 15:16:53 2017  -> Type: [Login] -> failed (invalid login or password)
+Tue Aug 29 15:17:04 2017 jakub -> Type: [Authorization] -> succeed
+Tue Aug 29 15:17:25 2017  -> Type: [Login] -> failed (invalid login or password)
+Tue Aug 29 15:18:03 2017  -> Type: [Login] -> failed (invalid login or password)
+Tue Aug 29 15:18:06 2017  -> Type: [Login] -> succeed
+Tue Aug 29 15:20:17 2017 piotr -> Type: [Disconnected]
+Tue Aug 29 15:23:59 2017 jakub -> Type: [Register] -> succeed
+Tue Aug 29 15:24:05 2017 jakub -> Type: [Login] -> succeed
+Tue Aug 29 15:24:13 2017  -> Type: [Logout] -> succeed
+Tue Aug 29 15:26:33 2017  -> Type: [Disconnected]
+Tue Aug 29 15:28:14 2017 jakub -> Type: [Login] -> succeed
+Tue Aug 29 15:28:22 2017 jakub -> Type: [Join group] (Group name:[test]) -> failed (test group does not exists)
+Tue Aug 29 15:28:27 2017 jakub -> Type: [Create group] (Group name:[test]) -> succeed
+Tue Aug 29 15:28:39 2017  -> Type: [Logout] -> succeed
+Tue Aug 29 15:28:39 2017 SYSTEM -> test group was destroyed
+Tue Aug 29 15:29:33 2017 piotr -> Type: [Login] -> succeed
+Tue Aug 29 15:29:35 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Tue Aug 29 15:29:41 2017  -> Type: [Logout] -> succeed
+Tue Aug 29 15:29:59 2017 test -> Type: [Register] -> succeed
+Tue Aug 29 15:30:03 2017 test -> Type: [Login] -> succeed
+Tue Aug 29 15:30:06 2017 test -> Type: [Create group] (Group name:[test]) -> succeed
+Tue Aug 29 15:30:08 2017 test -> Type: [Group members list] (Group name:[test]) -> succeed
+Tue Aug 29 15:30:11 2017 test -> Type: [Abandon group] (Group name:[test]) -> succeed
+Tue Aug 29 15:30:11 2017 SYSTEM -> test group was destroyedTue Aug 29 15:30:16 2017 test -> Type: [Disconnected]
+Wed Aug 30 10:08:33 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:08:38 2017 piotr -> Type: [Unregister user (Admin tool)]  (User name:[piotr]) -> failed (can not change file name)
+Wed Aug 30 10:09:45 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 10:12:39 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:12:42 2017 piotr -> Type: [Unregister user (Admin tool)]  (User name:[jakub]) -> failed (can not change file name)
+Wed Aug 30 10:15:38 2017 piotr -> Type: [Unregister user (Admin tool)]  (User name:[0]) -> failed (can not change file name)
+Wed Aug 30 10:15:50 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 10:16:58 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:17:46 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:17:50 2017 piotr -> Type: [Logout] -> succeed
+Wed Aug 30 10:17:55 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:18:06 2017 piotr -> Type: [Unregister user (Admin tool)]  (User name:[jakub]) -> failed (can not change file name)
+Wed Aug 30 10:19:21 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:19:29 2017 piotr -> Type: [Unregister user (Admin tool)]  (User name:[jakub]) -> failed (can not change file name1)
+Wed Aug 30 10:19:49 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 10:20:05 2017 piotr -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 10:20:17 2017 piotr -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 10:20:18 2017  -> Type: [Disconnected]
+Wed Aug 30 10:20:34 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:20:37 2017 piotr -> Type: [Unregister user (Admin tool)] -> (User name:[jakub]) succeed
+Wed Aug 30 10:21:14 2017 piotr -> Type: [Logout] -> succeed
+Wed Aug 30 10:21:18 2017 jan -> Type: [Register] -> succeed
+Wed Aug 30 10:21:56 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:23:54 2017 test -> Type: [Register] -> succeed
+Wed Aug 30 10:25:04 2017  -> Type: [Disconnected]
+Wed Aug 30 10:25:39 2017 test2 -> Type: [Register] -> succeed
+Wed Aug 30 10:25:44 2017 test3 -> Type: [Register] -> succeed
+Wed Aug 30 10:26:07 2017  -> Type: [Disconnected]
+Wed Aug 30 10:26:25 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:26:30 2017 piotr -> Type: [Unregister user (Admin tool)] -> (User name:[jan]) succeed
+Wed Aug 30 10:28:14 2017 jan -> Type: [Register] -> succeed
+Wed Aug 30 10:28:22 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:30:12 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:30:12 2017 piotr -> Type: [Logout] -> succeed
+Wed Aug 30 10:30:20 2017 kowal -> Type: [Register] -> succeed
+Wed Aug 30 10:30:24 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:31:46 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:31:48 2017 piotr -> Type: [Logout] -> succeed
+Wed Aug 30 10:31:54 2017 kat -> Type: [Register] -> succeed
+Wed Aug 30 10:31:57 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:31:59 2017 piotr -> Type: [Unregister user (Admin tool)] -> (User name:[kat]) succeed
+Wed Aug 30 10:41:54 2017 jol -> Type: [Register] -> succeed
+Wed Aug 30 10:41:57 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:49:43 2017 test -> Type: [Register] -> succeed
+Wed Aug 30 10:49:46 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:49:48 2017 piotr -> Type: [Unregister user (Admin tool)] -> (User name:[test]) succeed
+Wed Aug 30 10:51:18 2017 piotr -> Type: [Unregister user (Admin tool)] -> (User name:[kowal]) succeed
+Wed Aug 30 10:51:35 2017 piotr -> Type: [Logout] -> succeed
+Wed Aug 30 10:51:40 2017 kowal -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 10:51:49 2017 kowal -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 10:52:06 2017 kat -> Type: [Login] -> succeed
+Wed Aug 30 10:52:52 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:52:55 2017 piotr -> Type: [Unregister user (Admin tool)] -> (User name:[kat]) succeed
+Wed Aug 30 10:53:17 2017 kat -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 10:53:20 2017 kat -> Type: [Disconnected]
+Wed Aug 30 10:54:02 2017  -> Type: [Disconnected]
+Wed Aug 30 10:54:08 2017 jol -> Type: [Login] -> succeed
+Wed Aug 30 10:54:10 2017 jol -> Type: [Logout] -> succeed
+Wed Aug 30 10:54:11 2017  -> Type: [Disconnected]
+Wed Aug 30 10:55:31 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 10:55:43 2017 jol -> Type: [Login] -> succeed
+Wed Aug 30 10:57:21 2017 jol -> Type: [Disconnected]
+Wed Aug 30 10:57:40 2017 jol -> Type: [Login] -> succeed
+Wed Aug 30 10:57:46 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 10:57:57 2017 jol -> Type: [Logout] -> succeed
+Wed Aug 30 10:58:03 2017 jol -> Type: [Login] -> succeed
+Wed Aug 30 10:58:14 2017 piotr -> Type: [Unregister user (Admin tool)] -> (User name:[jol]) succeed
+Wed Aug 30 10:58:14 2017 jol -> Type: [Logout] -> succeed
+Wed Aug 30 10:58:57 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 10:59:00 2017  -> Type: [Disconnected]
+Wed Aug 30 11:08:14 2017  -> Type: [Disconnected]
+Wed Aug 30 11:08:59 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 11:09:00 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 11:13:50 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 11:13:55 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 11:13:58 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Aug 30 11:14:07 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Aug 30 11:14:12 2017 piotr -> Type: [Groups list (Admin tool)]  -> failed (none of group is existing right now)
+Wed Aug 30 11:14:24 2017 piotr -> Type: [Delete group (Admin tool)]  (Group name:[a]) -> failed (a group does not exist)
+Wed Aug 30 11:16:16 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 11:17:38 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 11:17:40 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Aug 30 11:18:11 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 11:18:43 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 11:19:03 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Aug 30 11:19:34 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 11:21:21 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 11:24:15 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Aug 30 11:26:37 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Aug 30 11:27:07 2017 log -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 11:27:10 2017 log -> Type: [Register] -> succeed
+Wed Aug 30 11:27:13 2017 log -> Type: [Login] -> succeed
+Wed Aug 30 11:27:16 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Aug 30 11:27:55 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 11:27:57 2017 log -> Type: [Disconnected]
+Wed Aug 30 11:29:27 2017  -> Type: [Disconnected]
+Wed Aug 30 11:30:11 2017  -> Type: [Disconnected]
+Wed Aug 30 11:30:37 2017  -> Type: [Disconnected]
+Wed Aug 30 11:33:58 2017  -> Type: [Disconnected]
+Wed Aug 30 12:15:58 2017  -> Type: [Disconnected]
+Wed Aug 30 12:21:41 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 12:21:42 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 12:28:07 2017 t -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 12:28:11 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 12:28:13 2017 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Aug 30 12:28:16 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 12:30:31 2017 r -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 12:30:34 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 12:32:34 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 12:32:38 2017 piotr -> Type: [Create group] (Group name:[test]) -> succeed
+Wed Aug 30 12:32:46 2017 piotr -> Type: [Group members list] (Group name:[test]) -> succeed
+Wed Aug 30 12:33:06 2017 piotr -> Type: [Group members list] (Group name:[test]) -> succeed
+Wed Aug 30 12:35:03 2017 piotr -> Type: [Group members list] (Group name:[test]) -> succeed
+Wed Aug 30 12:36:41 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 12:36:41 2017 SYSTEM -> test group was destroyed
+Wed Aug 30 13:30:47 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 13:31:09 2017 piotr -> Type: [Join group] (Group name:[aw]) -> failed (aw group does not exists)
+Wed Aug 30 13:32:35 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 14:02:09 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:03:03 2017  -> Type: [Disconnected]
+Wed Aug 30 14:03:11 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:03:15 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:03:24 2017  -> Type: [Disconnected]
+Wed Aug 30 14:04:49 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:04:54 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:04:57 2017  -> Type: [Disconnected]
+Wed Aug 30 14:06:51 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:06:58 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:07:02 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 14:07:04 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 14:10:32 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:10:39 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:10:42 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 14:10:45 2017 piotr -> Type: [Logout] -> succeed
+Wed Aug 30 14:10:48 2017  -> Type: [Disconnected]
+Wed Aug 30 14:12:05 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:12:15 2017  -> Type: [Disconnected]
+Wed Aug 30 14:13:12 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:13:18 2017  -> Type: [Disconnected]
+Wed Aug 30 14:17:07 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:17:12 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:17:17 2017  -> Type: [Disconnected]
+Wed Aug 30 14:18:04 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:18:07 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:18:12 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 14:18:15 2017 piotr -> Type: [Disconnected]
+Wed Aug 30 14:19:32 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:21:21 2017  -> Type: [Disconnected]
+Wed Aug 30 14:21:35 2017 test -> Type: [Login] -> failed (invalid login or password)
+Wed Aug 30 14:21:41 2017 piotr -> Type: [Login] -> succeed
+Wed Aug 30 14:21:42 2017 piotr -> Type: [Logout] -> succeed
+Wed Aug 30 14:21:59 2017 test -> Type: [Register] -> succeed
+Wed Aug 30 14:22:03 2017 test -> Type: [Login] -> succeed
+Wed Aug 30 14:22:04 2017 test -> Type: [Logout] -> succeed
+Wed Aug 30 14:22:05 2017  -> Type: [Disconnected]
+Thu Aug 31 09:21:52 2017  -> Type: [Disconnected]
+Thu Aug 31 10:23:44 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 31 10:23:49 2017 piotr -> Type: [Disconnected]
+Thu Aug 31 10:24:10 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 31 10:24:40 2017 piotr -> Type: [Disconnected]
+Thu Aug 31 10:27:21 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 31 10:28:22 2017 piotr -> Type: [Disconnected]
+Thu Aug 31 10:30:27 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 31 10:31:45 2017 piotr -> Type: [Disconnected]
+Thu Aug 31 10:31:45 2017  -> Type: [Disconnected]
+Thu Aug 31 10:31:45 2017  -> Type: [Disconnected]
+Thu Aug 31 10:32:36 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 31 10:32:45 2017 test -> Type: [Login] -> succeed
+Thu Aug 31 10:32:57 2017 piotr -> Type: [Disconnected]
+Thu Aug 31 10:33:07 2017 test -> Type: [Disconnected]
+Thu Aug 31 10:35:38 2017 piotr -> Type: [Login] -> succeed
+Thu Aug 31 10:36:14 2017 test -> Type: [Login] -> succeed
+Thu Aug 31 10:36:19 2017 log -> Type: [Login] -> failed (invalid login or password)
+Thu Aug 31 10:36:23 2017 log -> Type: [Login] -> succeed
+Thu Aug 31 10:36:37 2017 piotr -> Type: [Disconnected]
+Thu Aug 31 10:36:42 2017 log -> Type: [Disconnected]
+Thu Aug 31 10:36:45 2017 test -> Type: [Disconnected]
+Wed Feb 14 14:50:07 2018 admin -> Type: [Login] -> failed (invalid login or password)
+Wed Feb 14 14:50:33 2018 piotr -> Type: [Register] -> succeed
+Wed Feb 14 14:50:41 2018 piotr -> Type: [Login] -> succeed
+Wed Feb 14 14:50:58 2018 piotr -> Type: [Users list (Admin tool)] -> succeed
+Wed Feb 14 14:51:09 2018 piotr -> Type: [Groups list (Admin tool)]  -> failed (none of group is existing right now)
+Wed Feb 14 14:51:22 2018 piotr -> Type: [Create group] (Group name:[nowaGrupa]) -> succeed
+Wed Feb 14 14:51:30 2018 piotr -> Type: [Groups list (Admin tool)] -> succeed
+Wed Feb 14 14:51:39 2018 piotr -> Type: [Delete group (Admin tool)] -> (Group name:[nowaGrupa]) succeed
+Wed Feb 14 14:51:51 2018 piotr -> Type: [Join group] (Group name:[nowaGrupa]) -> failed (nowaGrupa group does not exist)
+Wed Feb 14 14:52:03 2018 piotr -> Type: [Unregister user (Admin tool)] -> (User name:[piotr]) succeed
+Wed Feb 14 14:52:03 2018 piotr -> Type: [Logout] -> succeed
+Wed Feb 14 14:52:16 2018 piotr -> Type: [Login] -> failed (invalid login or password)
+Wed Feb 14 14:52:19 2018  -> Type: [Disconnected]
+Wed Feb 14 14:54:09 2018 log -> Type: [Login] -> succeed
+Wed Feb 14 14:54:14 2018 log -> Type: [Logout] -> succeed
+Wed Feb 14 14:54:22 2018 user -> Type: [Login] -> failed (invalid login or password)
+Wed Feb 14 14:54:34 2018 test -> Type: [Login] -> succeed
+Wed Feb 14 14:54:38 2018 test -> Type: [Create group] (Group name:[moja]) -> succeed
+Wed Feb 14 14:54:46 2018 test -> Type: [Send message->To all] Message: [czesc] -> succeed
+Wed Feb 14 14:54:56 2018 test -> Type: [Send message->To group] (Group name:[moja]) Message: [cze] -> succeed
+Wed Feb 14 14:55:06 2018 test -> Type: [Send message->To selected user] (User name:[test]) Message: [czesc] -> succeed
+Wed Feb 14 14:55:11 2018 test -> Type: [Send message->To group] (Group name:[moja]) Message: [de] -> succeed
+Wed Feb 14 14:55:27 2018 test -> Type: [Send message->To group] (Group name:[moja]) Message: [de] -> succeed
+Wed Feb 14 14:55:37 2018 test -> Type: [Send message->To selected user] (User name:[de]) Message: [ee] -> failed (de is not login)
+Wed Feb 14 14:55:49 2018 test -> Type: [Group members list] (Group name:[moja]) -> succeed
+Wed Feb 14 14:56:08 2018 log -> Type: [Login] -> succeed
+Wed Feb 14 14:56:12 2018 log -> Type: [Users list (Admin tool)] -> succeed
+Wed Feb 14 14:56:14 2018 log -> Type: [Groups list (Admin tool)] -> succeed
+Wed Feb 14 14:56:19 2018 log -> Type: [Join group] (Group name:[moja]) -> succeed
+Wed Feb 14 14:56:36 2018 test -> Type: [Group members list] (Group name:[moja]) -> succeed
+Wed Feb 14 14:56:50 2018 test -> Type: [Send message->To group] (Group name:[moja]) Message: [czesc] -> succeed
+Wed Feb 14 14:57:03 2018 log -> Type: [Group members list] (Group name:[moja]) -> succeed
+Wed Feb 14 14:57:14 2018 log -> Type: [Send message->To group] (Group name:[moja]) Message: [czesc] -> succeed
+Wed Feb 14 14:57:25 2018 log -> Type: [Send message->To all] Message: [yo] -> succeed
+Wed Feb 14 14:57:55 2018 log -> Type: [Login] -> failed (log is already login)
+Wed Feb 14 14:57:58 2018  -> Type: [Disconnected]
+Wed Feb 14 14:58:07 2018 log -> Type: [Disconnected]
+Wed Feb 14 14:58:11 2018 test -> Type: [Group members list] (Group name:[moja]) -> succeed
+Wed Feb 14 14:58:19 2018 test -> Type: [Group name change] (Group name:[jol]) -> succeed
+Wed Feb 14 14:58:29 2018 test -> Type: [Send message->To group] (Group name:[jol]) Message: [czesc] -> succeed
+Wed Feb 14 14:58:45 2018 test -> Type: [Abandon group] (Group name:[jol]) -> succeed
+Wed Feb 14 14:58:45 2018 SYSTEM -> jol group was destroyed
+Wed Feb 14 14:58:49 2018 test -> Type: [Logout] -> succeed
+Wed Feb 14 14:58:52 2018 log -> Type: [Login] -> succeed
+Wed Feb 14 14:58:58 2018 log -> Type: [Unregister user (Admin tool)] -> (User name:[test]) succeed
+Wed Feb 14 14:59:02 2018 log -> Type: [Logout] -> succeed
+Wed Feb 14 14:59:05 2018 test -> Type: [Login] -> failed (invalid login or password)
+Wed Feb 14 14:59:15 2018  -> Type: [Disconnected]
